@@ -1,5 +1,5 @@
 ---
 layout: default
 permalink: /
-redirect_to: "/word-embedding/"
+redirect_to: "/law-society/"
 ---

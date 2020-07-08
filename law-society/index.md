@@ -4,15 +4,16 @@ permalink: /law-society/
 title: Course // Responsible AI, Law & Society
 ---
 
-![](University-of-Haifa.png)
-![](Technion.png)
+<img src="University-of-Haifa.png" style="float:left;" />
+<img src="Technion.png" style="float:right;" />
+<div style="clear:both"></div><br />
 
 # Course // Responsible AI, Law & Society
 ### Spring 2020
 
 <br />
 
-The deployment of Artificial Intelligence systems in our society raises multiple fundamental challenges and concerns, such as liability, fairness and privacy. Tackling these issues calls for an interdisciplinary approach, such as forming an integrated mindset, principles and practices between Data Science and Law. This course aims to do so by bringing together master students from both two disciplines into teams working together in a series of workshop-style classes.
+The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems, requires a new set of skills, informed by ethics, law, and policy, to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between Data Science and Law. This course aims to do so by bringing together senior undergrad and grad students from both disciplines into teams that work together on shared tasks in a series of four-hours long workshop-style meetings.
 
 **Staff.**
 
@@ -40,7 +41,7 @@ University of Haifa
 CS PhD student  
 Boston University
 
-**Audience.** Multidisciplinary: around half of the students are Law master students from University of Haifa, and the other half are Data Science master students from Technion.
+**Audience.** Multidisciplinary: around half of the students are Law master students pursuing an LLM in Law and Technology from University of Haifa, and the other half are Data Science & Engineering senior undergrad students from Technion.
 
 **Structure.** We will have six meetings, which will last four hours each in a workshop format. The topics explore some of the core issues in the landscape of AI, law and society. 
 
@@ -66,7 +67,7 @@ Boston University
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
-    <td class="tg-0pky">Transparency</td>
+    <td class="tg-0pky">Transparency & Explainability </td>
     <td class="tg-0pky">Finance (credit score)</td>
   </tr>
   <tr>
@@ -76,7 +77,7 @@ Boston University
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
-    <td class="tg-0pky">Content Moderation </td>
+    <td class="tg-0pky">Integration: Content Moderation </td>
     <td class="tg-0pky">Social Media Platforms </td>
   </tr>
   <tr>
@@ -90,17 +91,17 @@ Boston University
 **Learning Objectives.** At the end of the workshop, the students will…
 
 1. … be aware of the impact of AI on individuals, groups, society and humanity, and proactively *spot ethical issues* and *scan for unintended consequences and potential harms*.
-1. … be able to communicate with professionals from other disciplines, and *jointly translate* between the two domains
-1. … possess *introductory* knowledge and skills to *oversight* and *audit* AI systems through their life cycle (design, development and deployment).
+1. … be able to *communicate* with professionals from other disciplines, identify gaps in meaning of terms and perspectives, and develop a shared language 
+1. … possess *introductory* knowledge and skills to oversight and audit AI systems through their life cycle (design, development and deployment).
 1. … be able to *find and use resources* to achieve all of the above.
-1. [Data Scientists only] … take the first steps in shaping their *responsibility as professionals*, and be *motivated* to act upon it.
+1. … take the first steps in shaping their *responsibility as professionals*, and be motivated to act upon it.
 
-**Format.** The teaching is based on the signature pedagogy of each discipline; case-studies for Law and researching with Jupyter Notebook for Data Science. These two pedagogies are being used in every class, exposed to all of the students, and integrated together.
+**Format.** The teaching is based on the [*signature pedagogy*](https://wiki.ubc.ca/Signature_Pedagogies) of each discipline; [*case-studies*](https://casestudies.law.harvard.edu/the-case-study-teaching-method/) for Law and *iterated and interactive research of data* (e.g., with Jupyter Notebook) for Data Science. These two pedagogies are being used in every class, exposed to all of the students, and integrated together.
 
-**Tasks, Project and Evaluation.** Every class is built around one central task that requires integration of law and data science perspectives. The tasks are done in teams which will be formed before the start of the course. Each team consists of around two students from each discipline.  
-Teams will present their work at least twice along the course, and all of the teams need to submit a one-pager at the end of each class.  
-Finally, in the final project the teams will create a case-study with data, similar to what was presented in class, regarding an AI and Law issue.  
-The evaluation is focused  around the integration of the law and data science.
+**Tasks, Project and Evaluation.** Every class is built around one central task that requires integration of law and data science perspectives. The tasks are performed  in teams which will be formed before the start of the course. Each team consists of students from both disciplines.  
+Teams will present their work at least twice during the course, and all of the teams are required to submit a one-pager and a Jupyter Notebook at the end of each class.
+In their final project, the teams will be asked to develop a new case-study which makes use of data sets and data science techniques to demonstrate a legal\ethical dilemma regarding responsible AI, Law, and Society.  
+The evaluation criteria  will be focused on the integration of the law and data science perspectives.
 
 
 
