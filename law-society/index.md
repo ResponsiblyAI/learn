@@ -33,7 +33,7 @@ Guy Berkenstadt
 Data Science Master student  
 Technion
 <br/><br/>
-Karni Chagal-Feferkorn  
+<a href="https://haifa.academia.edu/KarniChagal">Karni Chagal-Feferkorn</a>  
 Law PhD student  
 University of Haifa
 <br/><br/>
