@@ -62,7 +62,7 @@ Boston University
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
-    <td class="tg-0pky">Descriminatin &amp; Fairness </td>
+    <td class="tg-0pky">Discrimination &amp; Fairness </td>
     <td class="tg-0pky">Labour Market</td>
   </tr>
   <tr>
