@@ -1,5 +1,5 @@
 ---
 layout: default
 permalink: /
-redirect_to: "/law-society/"
+redirect_to: "https://course.responsibly.ai/"
 ---
