@@ -41,7 +41,7 @@ University of Haifa
 CS PhD student  
 Boston University
 
-**Audience.** Multidisciplinary: approximately half the students are pursuing an LLM (Masters degree) in Law and Technology from University of Haifa.The remaining half are Data Science & Engineering senior undergrad students from the Technion.
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLM (Masters degree) in Law and Technology from University of Haifa. The remaining half are Data Science & Engineering senior undergrad students from the Technion.
 
 **Structure.** The course comprises six meetings of four hours, in a workshop format. The topics explore some of the core issues in the landscape of AI, law and society. 
 
