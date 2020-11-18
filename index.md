@@ -16,7 +16,7 @@ title: Course // Responsible AI, Law & Society
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between Data Science and Law. This course aims to do so by bringing together senior undergrad and grad students from both disciplines into teams that work together on joint tasks in a series of four-hour long workshop-style meetings.
 
-**[Poster about the course](assets/files/poster.pdf).**
+**[Poster about the course](assets/poster.pdf).**
 
 **Staff.**
 
