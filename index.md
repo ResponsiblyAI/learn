@@ -1,7 +1,7 @@
 ---
 layout: default-no-footer
 permalink: /
-title: Course // Responsible AI, Law & Society
+title: Course // Responsible AI, Law, Ethics & Society
 ---
 
 <img src="assets/img/Cornell-Tech.png" style="display: block;" />
