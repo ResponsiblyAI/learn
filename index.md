@@ -18,7 +18,10 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 <br />
 
-**Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between Data Science and Law. This course aims to do so by bringing together senior undergrad and grad students from both disciplines into teams that work together on joint tasks in a series of four-hour long workshop-style meetings.
+**Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
+
+This unique course also brings together students from three campuses: Cornell Tech, Tel Aviv University, and Technion with instructors and teaching assistants from each.
+
 
 **[Poster](assets/poster.pdf) about the course for the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.**
 
@@ -49,7 +52,7 @@ Boston University
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 TBA
 
-**Audience.** Multidisciplinary: approximately half the students are pursuing an LLM in Law from University of Tel-Aviv. The remaining half are Data Science & Engineering senior undergrad students from the Technion and .
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLM in Law from University of Tel-Aviv. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell Dual Master students.
 
 **Schedule.**
 May 27-June 17 | Monday, Tuesday, Thursday    
