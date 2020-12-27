@@ -33,15 +33,15 @@ This unique course also brings together students from three campuses: Cornell Te
 Faculty of Industrial Engineering &amp; Management  
 Technion
 <br/><br/>
-<a href="http://law.haifa.ac.il/index.php/en/faculty-elkiniva">Prof. Niva Elkin-Koren</a>  
+<a href="https://en-law.tau.ac.il/profile/elkiniva">Prof. Niva Elkin-Koren</a>  
 Faculty of Law  
-University of Haifa
+Tel Aviv University
 <br/><br/>
 <a href="https://nissenbaum.tech.cornell.edu/">Prof. Helen Nissenbaum</a>  
 Information Science  
 Cornell Tech
 <br/><br/>
-<a href="https://haifa.academia.edu/KarniChagal">Dr. Karni Chagal-Feferkorn</a>  
+<a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
 Law postdoctoral researcher  
 University of Ottawa
 <br/><br/>
