@@ -94,7 +94,8 @@ May 27-June 17 | Monday, Tuesday, Thursday
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">June 7th<br />Mon</td>
     <td class="tg-0pky">Privacy &amp; Surveillance</td>
-    <td class="tg-0pky">Geolocation</td>
+    <td class="tg-0pky">Geolocation &amp; Smart Cities
+</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
