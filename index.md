@@ -130,7 +130,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
 </tbody>
 </table>
 
-**Learning Objectives.** At the end of the workshop, the students will…
+**Learning Objectives.** At the end of the course, the students will…
 
 1. … be aware of the impact of AI on individuals, groups, society and humanity, and proactively *spot ethical issues* and *scan for unintended consequences and potential harms*.
 1. … be able to *communicate* with professionals from other disciplines, identify gaps in the meaning of terms and perspectives, and develop a shared language.
