@@ -132,8 +132,8 @@ May 27-June 17 | Monday, Tuesday, Thursday
 
 **Learning Objectives.** At the end of the course, the students will…
 
-1. … be aware of the impact of AI on individuals, groups, society and humanity, and proactively *spot ethical issues* and *scan for unintended consequences and potential harms*.
 1. … be able to *communicate* with professionals from other disciplines, identify gaps in the meaning of terms and perspectives, and develop a shared language.
+1. … be aware of the impact of AI on individuals, groups, society and humanity, and proactively *spot ethical issues* and *scan for unintended consequences and potential harms*.
 1. … possess *introductory* knowledge and skills to oversight and audit AI systems through their life cycle (design, development and deployment).
 1. … be able to *find and use resources* to achieve all of the above.
 1. … take the first steps in shaping their *responsibility as professionals*, and be motivated to act upon it.
