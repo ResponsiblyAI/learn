@@ -46,11 +46,16 @@ Law postdoctoral researcher
 University of Ottawa
 <br/><br/>
 <a href="https://shlomi.hod.xyz/">Shlomi Hod</a>  
-CS PhD student  
+Computer Science PhD student  
 Boston University
 
 <div style="text-align: center;"><em>Teaching fellows</em></div>
-TBA
+
+<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
+Data Science MA student  
+Technion
+
+
 
 **Audience.** Multidisciplinary: approximately half the students are pursuing an LLM in Law from University of Tel-Aviv. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell Dual Master students.
 
