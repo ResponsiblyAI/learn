@@ -14,6 +14,8 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 # Course // Responsible AI, Law, Ethics & Society
 
+Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials.
+
 ### Spring 2021
 
 <br />
@@ -52,7 +54,7 @@ Boston University
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
-Data Science MA student  
+Data Science M.Sc. student  
 Technion
 
 
