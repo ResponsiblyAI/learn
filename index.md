@@ -94,39 +94,39 @@ May 27-June 17 | Monday, Tuesday, Thursday
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">June 3rd<br />Thu</td>
-    <td class="tg-0pky">Transparency & Explainability </td>
-    <td class="tg-0pky">Finance<br />(credit score)</td>
+	<td class="tg-0pky">Discrimination &amp; Fairness - con't</td>
+    <td class="tg-0pky">Healthcare</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">June 7th<br />Mon</td>
-    <td class="tg-0pky">Privacy &amp; Surveillance</td>
-    <td class="tg-0pky">Geolocation &amp; Smart Cities
-</td>
+    <td class="tg-0pky">Transparency & Explainability </td>
+    <td class="tg-0pky">Finance</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">June 8th<br />Tue</td>
-    <td class="tg-0pky">TBA</td>
-    <td class="tg-0pky">TBA</td>
+    <td class="tg-0pky">Privacy &amp; Surveillance</td>
+    <td class="tg-0pky">Geolocation</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">June 10th<br />Thu</td>
-    <td class="tg-0pky">TBA</td>
-    <td class="tg-0pky">TBA</td>
+    <td class="tg-0pky">Values at Play</td>
+    <td class="tg-0pky">COVID-19</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
     <td class="tg-0pky">June 14th<br />Mon</td>
-    <td class="tg-0pky">TBA</td>
-    <td class="tg-0pky">TBA</td>
+    <td class="tg-0pky">Integration: Content Moderation </td>
+    <td class="tg-0pky">Social Media Platforms</td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">June 15th<br />Tue</td>
-    <td class="tg-0pky">Integration: Content Moderation </td>
-    <td class="tg-0pky">Social Media Platforms </td>
+    <td class="tg-0pky">Accountability, AI Governance &amp; Professional Responsibility</td>
+    <td class="tg-0pky">Smart Cities</td>
   </tr>
   <tr>
     <td class="tg-0pky">9</td>
