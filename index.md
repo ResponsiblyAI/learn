@@ -53,9 +53,14 @@ Boston University
 
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
+Margot Hanley  
+Information Science PhD student  
+Cornell Tech 
+<br/><br/>
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
 Data Science M.Sc. student  
 Technion
+
 
 
 
