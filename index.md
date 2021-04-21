@@ -112,7 +112,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">June 8th<br />Tue</td>
-    <td class="tg-0pky">Privacy &amp; Surveillance</td>
+    <td class="tg-0pky">Privacy</td>
     <td class="tg-0pky">Geolocation</td>
   </tr>
   <tr>
