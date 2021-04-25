@@ -64,7 +64,7 @@ Technion
 
 
 
-**Audience.** Multidisciplinary: approximately half the students are pursuing an LLM in Law from University of Tel-Aviv. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell Dual Master students.
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in  from TelAviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
 
 **Schedule.**
 May 27-June 17 | Monday, Tuesday, Thursday    
@@ -157,10 +157,15 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Format.** The teaching is based on the [*signature pedagogy*](https://wiki.ubc.ca/Signature_Pedagogies) of each discipline; [*case-studies*](https://casestudies.law.harvard.edu/the-case-study-teaching-method/) for Law and *iterated and interactive research of data* (e.g., with Jupyter Notebook) for Data Science. These two pedagogies are being used in every class, accessible to all of the students, and integrated together.
 
-**Tasks, Project and Evaluation.** Every class is built around one central task that requires integration of law and data science perspectives. The tasks are performed  in teams which will be formed before the start of the course. Each team consists of students from both disciplines.  
-Teams will present their work at least twice during the course, and all of the teams are required to submit a memo/presentation and a Jupyter Notebook at the end of each class.
-In their final project, the teams will be asked to develop a new case-study which makes use of data sets and data science techniques to demonstrate a legal\ethical dilemma regarding responsible AI, Law and Society.  
-The evaluation criteria  will be focused on the integration of the law and data science perspectives.
+**Assignments, Final Project and Evaluation.**
+
+Every class is built around one central task that requires integration of law and data science perspectives. The tasks are performed  in teams which will be formed before the start of the course. Each team consists of students from both disciplines.  
+
+The teams students will present their work at least twice during the course, and all of the teams are required to submit a one-pager memo or a presentation of a few slides at the end of each class.
+ 
+In their final project, the teams will be asked to develop a new case-study which makes use of data sets and data science techniques to demonstrate a legal\ethical dilemma regarding Responsible AI, Law, Ethics and Society.
+
+The assignments and the final project will be evaluated primarily on the quality of integration between the law and data science perspectives.
 
 
 
