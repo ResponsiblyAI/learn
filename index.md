@@ -64,7 +64,7 @@ Technion
 
 
 
-**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in  from TelAviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in  from Tel Aviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
 
 **Schedule.**
 May 27-June 17 | Monday, Tuesday, Thursday    
@@ -113,13 +113,13 @@ May 27-June 17 | Monday, Tuesday, Thursday
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">June 8th<br />Tue</td>
     <td class="tg-0pky">Privacy</td>
-    <td class="tg-0pky">Geolocation</td>
+    <td class="tg-0pky">Geolocation, COVID-19</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">June 10th<br />Thu</td>
     <td class="tg-0pky">Values at Play</td>
-    <td class="tg-0pky">COVID-19</td>
+    <td class="tg-0pky">Dating Apps</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
