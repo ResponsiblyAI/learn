@@ -150,7 +150,7 @@ By the end of the course, the students will be able to communicate with professi
 1. **Responsible AI**  
 By the end of the course, the students will …
    1. be aware of the impact of AI on individuals, groups, society and humanity, and proactively spot ethical issues and scan for unintended consequences and potential harms.
-   1. possess introductory knowledge and skills to oversight and audit AI systems through their life cycle(design, development and deployment).
+   1. possess introductory knowledge and skills to oversight and audit AI systems through their life cycle (design, development and deployment).
    1. be able to find and use resources to achieve all of the above.
 1. **Professional Responsibility**  
 By the end of the course, the students will take the first steps in shaping their responsibility as professionals, and be motivated to act upon it.
