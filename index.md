@@ -60,11 +60,14 @@ Cornell Tech
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
 Data Science M.Sc. student  
 Technion
+<br/><br/>
+<a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/
+">Adv. Sivan Shachar, LLM</a>  
+Teaching Fellow  
+Tel Aviv University
 
 
-
-
-**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in  from Tel Aviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in Tel Aviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
 
 **Schedule.**
 May 27-June 17 | Monday, Tuesday, Thursday    
