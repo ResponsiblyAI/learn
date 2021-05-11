@@ -57,13 +57,18 @@ Margot Hanley
 Information Science PhD student  
 Cornell Tech 
 <br/><br/>
+Adv. Hofit Wasserman Rozen  
+Business Manager at Microsoft R&D Israel  
+Law PhD candidate  
+Tel Aviv University
+<br/><br/>
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
 Data Science M.Sc. student  
 Technion
 <br/><br/>
 <a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/
 ">Adv. Sivan Shachar, LLM</a>  
-Teaching Fellow  
+Teaching fellow  
 Tel Aviv University
 
 
