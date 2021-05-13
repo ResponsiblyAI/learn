@@ -109,7 +109,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">June 3rd<br />Thu</td>
-	<td class="tg-0pky">Discrimination &amp; Fairness - con't</td>
+	<td class="tg-0pky">Discrimination &amp; Fairness</td>
     <td class="tg-0pky">Healthcare</td>
 
   </tr>
@@ -123,13 +123,13 @@ May 27-June 17 | Monday, Tuesday, Thursday
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">June 8th<br />Tue</td>
     <td class="tg-0pky">Privacy</td>
-    <td class="tg-0pky">Geolocation, COVID-19</td>
+    <td class="tg-0pky">Geolocation</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">June 10th<br />Thu</td>
-    <td class="tg-0pky">Values at Play</td>
-    <td class="tg-0pky">Dating Apps</td>
+    <td class="tg-0pky">Privacy<br /><br />Values at Play</td>
+    <td class="tg-0pky">COVID-19<br /><br />Dating Apps</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
@@ -146,7 +146,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
   <tr>
     <td class="tg-0pky">9</td>
     <td class="tg-0pky">June 17th<br />Thu</td>
-    <td class="tg-0pky" colspan="2">Project Presentations and Summary</td>
+    <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
 
   </tr>
 </tbody>
