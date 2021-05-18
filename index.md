@@ -123,7 +123,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">June 8th<br />Tue</td>
     <td class="tg-0pky">Privacy</td>
-    <td class="tg-0pky">Geolocation</td>
+    <td class="tg-0pky">Transportation</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
