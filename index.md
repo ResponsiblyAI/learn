@@ -95,7 +95,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">1<br /><strong>STARTS AT<br /> 9:00 am IST / 4:00 EST</strong></td>
+    <td class="tg-0pky">1<br /><strong>STARTS AT<br /> 9:00 am EST / 4:00 pm IST</strong></td>
     <td class="tg-0pky">May 27th<br />Thu</td>
     <td class="tg-0pky">Liability &amp; Robustness</td>
     <td class="tg-0pky">Autonomous Vehicles </td>
