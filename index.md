@@ -79,8 +79,6 @@ May 27-June 17 | Monday, Tuesday, Thursday
 9:30 am - 1:30 pm (Eastern Time Zone)  
 4:30 pm - 8:30 pm (Israel Time Zone)  
 
-<u>Note: the first class will take place exceptionally at 9:00 am - 1:00 pm (EST) / 4:00 pm - 8:00 pm (IST)</u>
-
 **Structure.** The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 
@@ -95,7 +93,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">1<br /><strong>STARTS AT<br /> 9:00 am EST / 4:00 pm IST</strong></td>
+    <td class="tg-0pky">1</td>
     <td class="tg-0pky">May 27th<br />Thu</td>
     <td class="tg-0pky">Liability &amp; Robustness</td>
     <td class="tg-0pky">Autonomous Vehicles </td>
