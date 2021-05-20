@@ -167,15 +167,22 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Format.** The teaching is based on the [*signature pedagogy*](https://wiki.ubc.ca/Signature_Pedagogies) of each discipline; [*case-studies*](https://casestudies.law.harvard.edu/the-case-study-teaching-method/) for Law and *iterated and interactive research of data* (e.g., with Jupyter Notebook) for Data Science. These two pedagogies are being used in every class, accessible to all of the students, and integrated together.
 
-**Assignments, Final Project and Evaluation.**
+**Teams.** Every class is built around one central task that requires the integration of law and data science perspectives with ethical considerations. The tasks are performed in teams which will be formed before the start of the course. Teams are assigned by the course staff and are fixed for the duration of the course. Teams are designed to consist of mixed backgrounds and disciplines.
 
-Every class is built around one central task that requires integration of law and data science perspectives. The tasks are performed  in teams which will be formed before the start of the course. Each team consists of students from both disciplines.  
+**Participation.** Multidisciplinary teamwork is an indispensable component in this course, so the active participation of all students is necessary for successful learning. Therefore, a student might miss at most one class, but only for a justified reason after confirming with the instructor of their respective institution at least 3 days in advance. 
 
-The teams students will present their work at least twice during the course, and all of the teams are required to submit a one-pager memo or a presentation of a few slides at the end of each class.
- 
-In their final project, the teams will be asked to develop a new case-study which makes use of data sets and data science techniques to demonstrate a legal\ethical dilemma regarding Responsible AI, Law, Ethics and Society.
+**In-Class Assignments.** In every class, all teams are required to submit a half-pager memo and a deck of a few slides at the end of each class. Each team will present twice during the course.
 
-The assignments and the final project will be evaluated primarily on the quality of integration between the law and data science perspectives.
+**Final Project.** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. We will publish additional instructions soon.
+
+**Evaluation.** The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives. We will publish a rubric soon.
+
+**Grading Breakdown.**  
+Final project: 40%  
+In-class assignments (half-pager memo and slide deck x 8 class): 40%  
+Presentation during class (x2 for each team): 20%  
+
+
 
 
 
