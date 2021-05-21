@@ -169,6 +169,8 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Participation.** Multidisciplinary teamwork is an indispensable component in this course, so the active participation of all students is necessary for successful learning. Therefore, a student might miss at most one class, but only for a justified reason after confirming with the instructor of their respective institution at least 3 days in advance. 
 
+**Pre-Class Assignments.** There are few assignments to be done and submitted before some of the classes. The students will use the outcomes of these assignments in the class. The submissions are mandatory but not graded. 
+
 **In-Class Assignments.** In every class, all teams are required to submit a half-pager memo and a deck of a few slides at the end of each class. Each team will present twice during the course.
 
 **Final Project.** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. We will publish additional instructions soon.
