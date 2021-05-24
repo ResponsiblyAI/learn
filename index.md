@@ -70,7 +70,10 @@ Technion
 ">Adv. Sivan Shachar, LLM</a>  
 Teaching fellow  
 Tel Aviv University
-
+<br/><br/>
+Nitay Calderon  
+Data Science M.Sc. student  
+Technion
 
 **Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in Tel Aviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
 
