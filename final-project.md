@@ -1,6 +1,6 @@
 ---
 layout: default-no-footer
-permalink: /
+permalink: /final-project.html
 title: Final Project - Course // Responsible AI, Law, Ethics & Society
 ---
 
