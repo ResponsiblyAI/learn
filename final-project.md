@@ -48,7 +48,7 @@ Importantly, the activities should be joint in nature such that students from th
 ### Technical instructions
 
  
-Please submit your project by **July 30th 10:00 EST/ 17:00 IST**, using Moodle.
+Please submit your project by **July 30th 10:00 EST / 17:00 IST**, using Moodle.
 Only one team member should upload the project.
 The project shall be in the form of a Google doc / Word document, accompanied by a Jupiter notebook. 
 
