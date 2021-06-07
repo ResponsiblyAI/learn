@@ -129,20 +129,21 @@ May 27-June 17 | Monday, Tuesday, Thursday
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">June 10th<br />Thu</td>
-    <td class="tg-0pky">Privacy<br /><br />Values at Play</td>
+    <td class="tg-0pky">Privacy - con't<br /><br />Values at Play</td>
     <td class="tg-0pky">COVID-19<br /><br />Dating Apps</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
     <td class="tg-0pky">June 14th<br />Mon</td>
-    <td class="tg-0pky">Integration: Content Moderation </td>
-    <td class="tg-0pky">Social Media Platforms</td>
+    <td class="tg-0pky">Values at Play - con't<br />Accountability, AI Governance &amp; Professional     Responsibility<br />Final Project Session</td>    
+    <td class="tg-0pky">Dating Apps<br />Smart Cities</td><br />
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
-    <td class="tg-0pky">June 15th<br />Tue</td>
-    <td class="tg-0pky">Accountability, AI Governance &amp; Professional Responsibility</td>
-    <td class="tg-0pky">Smart Cities</td>
+    <td class="tg-0pky">June 15th<br />Tue</td>    
+    <td class="tg-0pky">Integration: Content Moderation </td>
+    <td class="tg-0pky">Social Media Platforms</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">9</td>
