@@ -136,7 +136,7 @@ May 27-June 17 | Monday, Tuesday, Thursday
     <td class="tg-0pky">7</td>
     <td class="tg-0pky">June 14th<br />Mon</td>
     <td class="tg-0pky">Values at Play - con't<br />Accountability, AI Governance &amp; Professional     Responsibility<br />Final Project Session</td>    
-    <td class="tg-0pky">Dating Apps<br />Smart Cities</td><br />
+    <td class="tg-0pky">Dating Apps<br />Smart Cities<br /></td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
