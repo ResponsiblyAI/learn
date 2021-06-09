@@ -70,8 +70,8 @@ A proposed structure should include:
 
 The final project accounts for 40% of your final grade. Like the other components of the final grade, the project will be graded on a team-basis.  The breakdown of the evaluation criteria is below. 
 
-- 15% of the final project grade will be based on the oral presentation at the 9th class. The presentation should reflect an initial draft- to be further developed by the team after the compilation of the course. 
-- 85% of the presentation grade will be based on the submitted project itself. Criteria for grading both the presentation and the submitted output are:
+- 15% of the final project grade will be based on the proposal presentation at the 9th class. The presentation should reflect an initial draft - to be further developed by the team after the completion of the course. 
+- 85% of the project grade will be based on the submitted project itself. Criteria for grading both the presentation and the submitted output are:
 
   - Demonstration of collaboration and joint work in both preparing the class and in the proposed activities themselves (which should not only include tasks for the different disciplines but make sure that the tasks cannot be properly addressed without the combined knowledge and skills of both disciplines).
   - Demonstration of in-depth thinking and development of the activities.
