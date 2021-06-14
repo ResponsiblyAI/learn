@@ -54,7 +54,7 @@ The project shall be in the form of a Google doc / Word document, accompanied by
 
 ### Project Proposal Presentations
 
-For your upcoming presentation of your final project on **June 17th**, you will have **12 minutes** to present your project.
+For your upcoming presentation of your final project on **June 17th**, you will have **12 minutes** to present your project. **Every team member** should take part in the presentation.
 
 A proposed structure should include:
 
@@ -63,7 +63,6 @@ A proposed structure should include:
 3. The description of the case study, in particular, the description of the relevant stakeholders
 4. The dataset\model that will be used 5. How do you intend to demonstrate the specific legal, ethical and technical (DS) issues using the case study 
 6. How could mechanisms\methods from Law and Data Science could help to address these issues
-
 
 
 ### Evaluation
