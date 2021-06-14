@@ -6,7 +6,6 @@ title: Final Project - Course // Responsible AI, Law, Ethics & Society
 
 # Course // Responsible AI, Law, Ethics & Society
 
-
 ## Instructions For The Final Project
 
 ### Assignment summary
@@ -61,8 +60,9 @@ A proposed structure should include:
 1. The topic chosen
 2. The core legal, ethical and technical (DS) issues that you seek to demonstrate using the case study 
 3. The description of the case study, in particular, the description of the relevant stakeholders
-4. The dataset\model that will be used 5. How do you intend to demonstrate the specific legal, ethical and technical (DS) issues using the case study 
-6. How could mechanisms\methods from Law and Data Science could help to address these issues
+4. The dataset/model that will be used
+5. How do you intend to demonstrate the specific legal, ethical and technical (DS) issues using the case study 
+6. How could mechanisms/methods from Law and Data Science could help to address these issues
 
 
 ### Evaluation
