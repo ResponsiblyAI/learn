@@ -99,7 +99,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">March 31st<br />Thu</td>
-	<td class="tg-0pky">Discrimination &amp; Fairness</td>
+	<td class="tg-0pky">Discrimination &amp; Fairness<br />RAI Framework for the Data Science Workflow</td>
     <td class="tg-0pky">Healthcare</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
   <tr>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">May 10th<br />Thu</td>    
-    <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
+    <td class="tg-0pky" colspan="2">Project Presentations, Accountability, Professional Responsibility and Course Summary</td>
   </tr>
 </tbody>
 </table>
