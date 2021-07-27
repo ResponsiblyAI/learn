@@ -1,6 +1,5 @@
 ---
 layout: default-no-footer
-permalink: /final-project.html
 title: Final Project - Course // Responsible AI, Law, Ethics & Society
 ---
 
@@ -46,14 +45,14 @@ Importantly, the activities should be joint in nature such that students from th
 
 ### Submission
 
-Please submit your project by **TBA**, using **TBA**.
+Please submit your project by **July 30th 10:00 EST / 17:00 IST**, using Moodle.
 Only one team member should upload the project.
 The project shall be in the form of a Google doc / Word document, accompanied by a Jupiter notebook. 
 
 
 ### Project Proposal Presentations
 
-For your upcoming presentation of your final project on **TBA**, you will have **12 minutes** to present your project. **Every team member** should take part in the presentation.
+For your upcoming presentation of your final project on **June 17th**, you will have **12 minutes** to present your project. **Every team member** should take part in the presentation.
 
 A proposed structure should include:
 

@@ -1,10 +1,9 @@
 ---
 layout: default-no-footer
-permalink: /
 title: Course // Responsible AI, Law, Ethics & Society
 ---
 
-<img src="/assets/img/Boston-University.gif" style="display: block;" />
+<img src="/assets/img/Cornell-Tech.png" style="display: block;" />
 
 <img src="/assets/img/Tel-Aviv-University.png" style="display: block;" />
 
@@ -12,21 +11,17 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 <div style="clear:both"></div><br />
 
-#### BU DS-482/682 | TAU *TBA* | Technion 094288
 # Course // Responsible AI, Law, Ethics & Society
 
+### Spring 2021 (past offering)
 
-**For Instructors:** Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials.
-
-### Spring '22
-
-Past: [Spring '20](past/spring20) &#124; [Spring '21](past/spring21)
+### [Go to the current offering](/)
 
 <br />
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
 
-This unique course also brings together students from three institutes: Boston University, Tel Aviv University, and Technion with instructors and teaching assistants from each.
+This unique course also brings together students from three institutes: Cornell Tech, Tel Aviv University, and Technion with instructors and teaching assistants from each.
 
 
 **[Poster](assets/poster.pdf) about the course for the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.**
@@ -43,6 +38,10 @@ Technion
 Faculty of Law  
 Tel Aviv University
 <br/><br/>
+<a href="https://nissenbaum.tech.cornell.edu/">Prof. Helen Nissenbaum</a>  
+Information Science  
+Cornell Tech
+<br/><br/>
 <a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
 Law postdoctoral researcher  
 University of Ottawa
@@ -53,19 +52,36 @@ Boston University
 
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
-TBA
+Margot Hanley  
+Information Science PhD student  
+Cornell Tech 
+<br/><br/>
+Adv. Hofit Wasserman Rozen  
+Business Manager at Microsoft R&D Israel  
+Law PhD candidate  
+Tel Aviv University
+<br/><br/>
+<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
+Data Science M.Sc. student  
+Technion
+<br/><br/>
+<a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/
+">Adv. Sivan Shachar, LLM</a>  
+Teaching fellow  
+Tel Aviv University
+<br/><br/>
+Nitay Calderon  
+Data Science M.Sc. student  
+Technion
 
-**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion, and  undergrad and grad Data Science / Computer Science students from Boston University.
+**Audience.** Multidisciplinary: approximately half the students are pursuing an LLB (Bachelor of Laws) in Tel Aviv University. The remaining half are Data Science & Engineering senior undergrad students from the Technion and Jacobs Technion-Cornell dual master students from Cornell Tech.
 
 **Schedule.**
-The course comprises nine **virtual** meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
+May 27-June 17 | Monday, Tuesday, Thursday    
+9:30 am - 1:30 pm (Eastern Time Zone)  
+4:30 pm - 8:30 pm (Israel Time Zone)  
 
-March 22 - May 10 2022 | Tuesday, Thursday    
-9:00 am - 1:00 pm (Eastern Time Zone)  
-4:00 pm - 8:00 pm (Israel Time Zone)  
-
-**Due to the different dates of daylight saving timezone change the US and Israel, the the first (March 22th) and the second (March 24th)  meetings will take place one our later (10am-2pm) for the BU students.**
-
+**Structure.** The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 
 <table class="tg">
@@ -73,57 +89,66 @@ March 22 - May 10 2022 | Tuesday, Thursday
   <tr>
     <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Date</th>
-    <th class="tg-0pky">Topics (TENTATIVE)</th>
+    <th class="tg-0pky">Topics</th>
     <th class="tg-0pky">Verticals</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">March 22th<br />Tue<br /></td>
-    <td class="tg-0pky" colspan=2>AI &amp; Us</td>
+    <td class="tg-0pky">May 27th<br />Thu</td>
+    <td class="tg-0pky">Liability &amp; Robustness</td>
+    <td class="tg-0pky">Autonomous Vehicles </td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
-    <td class="tg-0pky">March 24th<br />Thu<br /></td>
-	<td class="tg-0pky">Liability &amp; Robustness</td>
-	<td class="tg-0pky">Autonomous Vehicles</td>
+    <td class="tg-0pky">June 1st<br />Tue</td>
+    <td class="tg-0pky">Discrimination &amp; Fairness </td>
+    <td class="tg-0pky">Labour Market</td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
-    <td class="tg-0pky">March 29th<br />Tue</td>
-    <td class="tg-0pky">Discrimination &amp; Fairness </td>
-    <td class="tg-0pky">Labour Market</td>
+    <td class="tg-0pky">June 3rd<br />Thu</td>
+	<td class="tg-0pky">Discrimination &amp; Fairness</td>
+    <td class="tg-0pky">Healthcare</td>
 
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
-    <td class="tg-0pky">March 31st<br />Thu</td>
-	<td class="tg-0pky">Discrimination &amp; Fairness</td>
-    <td class="tg-0pky">Healthcare</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">5</td>
-    <td class="tg-0pky">April 5th<br />Tue</td>
+    <td class="tg-0pky">June 7th<br />Mon</td>
     <td class="tg-0pky">Transparency & Explainability </td>
     <td class="tg-0pky">Finance</td>
   </tr>
   <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">June 8th<br />Tue</td>
+    <td class="tg-0pky">Privacy</td>
+    <td class="tg-0pky">Transportation</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">6</td>
-    <td class="tg-0pky">April 26th<br />Tue</td>
-	<td class="tg-0pky">Privacy</td>
-    <td class="tg-0pky">Transportation, COVID-19</td>
+    <td class="tg-0pky">June 10th<br />Thu</td>
+    <td class="tg-0pky">Privacy - con't<br /><br />Values at Play</td>
+    <td class="tg-0pky">COVID-19<br /><br />Dating Apps</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
-    <td class="tg-0pky">April 28th<br />Thu</td>
-    <td class="tg-0pky">Integration: Content Moderation </td>
-    <td class="tg-0pky">Social Media Platforms</td>
+    <td class="tg-0pky">June 14th<br />Mon</td>
+    <td class="tg-0pky">Values at Play - con't<br />Accountability, AI Governance &amp; Professional     Responsibility<br />Final Project Session</td>    
+    <td class="tg-0pky">Dating Apps<br />Smart Cities<br /></td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
-    <td class="tg-0pky">May 10th<br />Thu</td>    
+    <td class="tg-0pky">June 15th<br />Tue</td>    
+    <td class="tg-0pky">Integration: Content Moderation </td>
+    <td class="tg-0pky">Social Media Platforms</td>
+
+  </tr>
+  <tr>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">June 17th<br />Thu</td>
     <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
+
   </tr>
 </tbody>
 </table>
@@ -157,7 +182,7 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Grading Breakdown.**  
 Final project: 40%  
-In-class assignments (slide deck x 7 class): 40%
+In-class assignments (half-pager memo and slide deck x 8 class): 40%  
 Presentation during class (x2 for each team): 20%  
 
 
