@@ -24,13 +24,13 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Boston-University.svg" alt="Boston University Logo">
+    <img src="/assets/img/Boston-University.svg" alt="Boston University Logo" style="width: 75%">
   </div>
   <div class="column">
-    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo">
+    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo" style="width: 75%">
   </div>
   <div class="column">
-    <img src="/assets/img/Technion.png" alt="Technion">
+    <img src="/assets/img/Technion.png" alt="Technion" style="width: 75%">
   </div>
 </div>
 
