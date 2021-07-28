@@ -24,32 +24,35 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Boston-University.svg" alt="Boston University Logo" style="width: 75%">
+    <img src="/assets/img/Boston-University.svg" alt="Boston University Logo">
   </div>
   <div class="column">
-    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo" style="width: 75%">
-  </div>
-  <div class="column">
-    <img src="/assets/img/Technion.png" alt="Technion" style="width: 75%">
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <a href="https://www.bu.edu/academics/cds/courses/cds-ds-482/"><strong>CDS DS-482/682</strong></a>
+  <a href="https://www.bu.edu/academics/cds/courses/cds-ds-482/"><strong>CDS DS-482/682</strong></a>
     <br />
     4 credit pts.
+  </div>
+</div>
+  
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo">
   </div>
   <div class="column">
     <strong>TBA</strong>
     <br />
     3 credit pts.
   </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/Technion.png" alt="Technion">
+  </div>
   <div class="column">
     <strong>094288</strong>
     <br />
     3 credit pts.
-  </div>
+  </div>  
 </div>
 
 
