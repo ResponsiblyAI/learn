@@ -100,7 +100,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
 9 am - 1 pm (Eastern Time Zone)  
 4 pm - 8 pm (Israel Time Zone)  
 
-**IMPORTANT:** Due to the different dates of daylight saving timezone change the US and Israel, the the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one our later **<u>10 am - 2 pm</u>** for the BU students.
+**IMPORTANT:** Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one our later **<u>10 am - 2 pm</u>** for the BU students.
 
 
 
