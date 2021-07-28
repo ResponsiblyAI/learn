@@ -195,7 +195,7 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **In-Class Assignments.** In every class, all teams are required to submit a half-pager memo and a deck of a few slides at the end of each class. Each team will present twice during the course.
 
-**Final Project.** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. [Additional instructions here](https://learn.responsibly.ai/final-project.html).
+**Final Project.** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. [Additional instructions here](/final-project.html).
 
 **Evaluation.** The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives. We will publish a rubric soon.
 
