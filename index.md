@@ -4,32 +4,67 @@ permalink: /
 title: Course // Responsible AI, Law, Ethics & Society
 ---
 
-<img src="/assets/img/Boston-University.gif" style="display: block;" />
 
-<img src="/assets/img/Tel-Aviv-University.png" style="display: block;" />
+<style>
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 28%;
+  padding: 15px;
+  text-align: center;
+}
 
-<img src="/assets/img/Technion.png" style="display: block;" />
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
-<div style="clear:both"></div><br />
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/Boston_University_wordmark.svg" alt="Boston University Logo">
+  </div>
+  <div class="column">
+    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo">
+  </div>
+  <div class="column">
+    <img src="/assets/img/Technion.png" alt="Technion">
+  </div>
+</div>
 
-#### BU DS-482/682 | TAU *TBA* | Technion 094288
+<div class="row">
+  <div class="column">
+    <a href="https://www.bu.edu/academics/cds/courses/cds-ds-482/"><strong>CDS DS-482/682</strong></a>
+    <br />
+    4 credit pts.
+  </div>
+  <div class="column">
+    <strong>TBA</strong>
+    <br />
+    3 credit pts.
+  </div>
+  <div class="column">
+    <strong>094288</strong>
+    <br />
+    3 credit pts.
+  </div>
+</div>
+
+
 # Course // Responsible AI, Law, Ethics & Society
-
-
-**For Instructors:** Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials.
 
 ### Spring '22
 
-Past: [Spring '20](past/spring20) &#124; [Spring '21](past/spring21)
-
-<br />
+**Past.** [Spring '20](past/spring20) &#124; [Spring '21](past/spring21)
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
 
 This unique course also brings together students from three institutes: Boston University, Tel Aviv University, and Technion with instructors and teaching assistants from each.
 
 
-**[Poster](assets/poster.pdf) about the course for the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.**
+**For Interested Instructors.** Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials. You can read more about the course in these [poster](assets/poster.pdf) from the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.
 
 **Staff.**
 
@@ -54,6 +89,7 @@ Boston University
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
 TBA
+ 
 
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion, and  undergrad and grad Data Science / Computer Science students from Boston University.
 
@@ -61,10 +97,10 @@ TBA
 The course comprises nine **virtual** meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 March 22 - May 10 2022 | Tuesday, Thursday    
-9:00 am - 1:00 pm (Eastern Time Zone)  
-4:00 pm - 8:00 pm (Israel Time Zone)  
+9 am - 1 pm (Eastern Time Zone)  
+4 pm - 8 pm (Israel Time Zone)  
 
-**Due to the different dates of daylight saving timezone change the US and Israel, the the first (March 22th) and the second (March 24th)  meetings will take place one our later (10am-2pm) for the BU students.**
+**IMPORTANT:** Due to the different dates of daylight saving timezone change the US and Israel, the the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one our later **<u>10 am - 2 pm</u>** for the BU students.
 
 
 

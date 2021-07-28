@@ -4,7 +4,7 @@ title: Course // Responsible AI, Law & Society
 ---
 
 <img src="/assets/img/University-of-Haifa.png" style="float:left;" />
-<img src="/assets/img/Technion.png" style="float:right;" />
+<img src="/assets/img/Technion.png" style="float:right; width:50%" />
 <div style="clear:both"></div><br />
 
 # Course // Responsible AI, Law & Society
