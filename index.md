@@ -6,11 +6,11 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 
 <style>
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+/* Two columns containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 28%;
-  padding: 15px;
+  width: 50%;
+  //padding: 0px;
   text-align: center;
 }
 
@@ -19,12 +19,17 @@ title: Course // Responsible AI, Law, Ethics & Society
   content: "";
   clear: both;
   display: table;
+  padding: 5px;
+}
+  
+.logo {
+  width: 50%;
 }
 </style>
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Boston-University.svg" alt="Boston University Logo">
+    <img class="logo" src="/assets/img/Boston-University.svg" alt="Boston University Logo">
   </div>
   <div class="column">
   <a href="https://www.bu.edu/academics/cds/courses/cds-ds-482/"><strong>CDS DS-482/682</strong></a>
@@ -35,7 +40,7 @@ title: Course // Responsible AI, Law, Ethics & Society
   
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo">
+    <img class="logo" src="/assets/img/Tel-Aviv-University.png" alt="Tel Aviv University Logo">
   </div>
   <div class="column">
     <strong>TBA</strong>
@@ -46,7 +51,7 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Technion.png" alt="Technion">
+    <img class="logo" src="/assets/img/Technion.png" alt="Technion">
   </div>
   <div class="column">
     <strong>094288</strong>
