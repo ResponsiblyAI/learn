@@ -96,21 +96,30 @@ Boston University
 
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
+Adv. Hofit Wasserman Rozen  
+Business Manager at Microsoft R&D Israel  
+Law PhD candidate  
+Tel Aviv University
+<br/><br/>
 TBA
  
 
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion, and  undergrad and grad Data Science / Computer Science students from Boston University.
 
-**Schedule.**
-The course comprises nine **virtual** meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
+**Class Hours.**
+The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 March 22 - May 10 2022 | Tuesday, Thursday    
 9 am - 1 pm (Eastern Time Zone)  
 4 pm - 8 pm (Israel Time Zone)  
 
-**IMPORTANT:** Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>** for the BU students.
+<img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For BU Students Only.**
 
+1. We will have a pre-course meeting on the first day of the semester, Thursday, January 20 2021 at 11:00 am - 12:15 pm.
+2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141.
+3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
+**Schedule**
 
 <table class="tg">
 <thead>
