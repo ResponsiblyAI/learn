@@ -113,7 +113,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
 9 am - 1 pm (Eastern Time Zone)  
 4 pm - 8 pm (Israel Time Zone)  
 
-<img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For BU Students Only.**
+<img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
 
 1. We will have a pre-course meeting on the first day of the semester, Thursday, January 20 2021 at 11:00 am - 12:15 pm.
 2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141.
