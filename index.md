@@ -115,7 +115,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
 
 <img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
 
-A permission is required to register to this corse, please fill out [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` if you have any questions.
+A permission is required to register to this corse, please fill out [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
 
 1. We will have a pre-course meeting on the first day of the semester, Thursday, January 20 2021 at 11:00 am - 12:15 pm.
 2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141.
