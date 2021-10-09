@@ -57,7 +57,17 @@ title: Course // Responsible AI, Law, Ethics & Society
     <strong>094288</strong>
     <br />
     3 credit pts.
-  </div>  
+  </div>
+</div>
+  
+<div class="row">
+  <div class="column">
+    <img class="logo" src="/assets/img/Bocconi-University.png" alt="Bocconi University" style="width: 60%">
+  </div>
+  <div class="column">
+    <strong>TBA</strong>
+    <br />
+  </div>
 </div>
 
 
@@ -86,6 +96,10 @@ Technion
 Faculty of Law  
 Tel Aviv University
 <br/><br/>
+<a href="https://didattica.unibocconi.eu/docenti/cv.php?rif=50237">Prof. Maria Lillà Montagnani</a>  
+Department of Law  
+Bocconi University
+<br/><br/>
 <a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
 Law postdoctoral researcher  
 University of Ottawa
@@ -103,6 +117,9 @@ Tel Aviv University
 <br/><br/>
 TBA
  
+
+
+
 
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion, and  undergrad and grad Data Science / Computer Science students from Boston University.
 
