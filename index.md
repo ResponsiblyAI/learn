@@ -128,6 +128,7 @@ The course comprises nine meetings of four clock hours, in a workshop format. Th
 
 March 22 - May 10 2022 | Tuesday, Thursday    
 9 am - 1 pm (Eastern Time Zone)  
+3 pm - 7 pm (Central European Time Zone)  
 4 pm - 8 pm (Israel Time Zone)  
 
 <img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
