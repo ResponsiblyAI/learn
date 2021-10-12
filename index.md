@@ -79,7 +79,7 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
 
-This unique course also brings together students from three institutes: Boston University, Tel Aviv University, and Technion with instructors and teaching assistants from each.
+This unique course also brings together students from four institutes: Boston University, Tel Aviv University, the Technion and Bocconi University with instructors and teaching assistants from each.
 
 
 **For Interested Instructors.** Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials. You can read more about the course in these [poster](assets/poster.pdf) from the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.
@@ -118,10 +118,7 @@ Tel Aviv University
 TBA
  
 
-
-
-
-**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion, and  undergrad and grad Data Science / Computer Science students from Boston University.
+**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science / Computer Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
 
 **Class Hours.**
 The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
