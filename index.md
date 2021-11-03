@@ -153,7 +153,8 @@ In this semester, another course - similar, yet different- will also be taught a
   <tr>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">March 22th<br />Tue<br /></td>
-    <td class="tg-0pky" colspan=2>AI &amp; Us</td>
+    <td class="tg-0pky">AI &amp; Us</td>
+	<td class="tg-0pky">Social Welfare</td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
