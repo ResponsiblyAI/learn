@@ -115,6 +115,10 @@ Business Manager at Microsoft R&D Israel
 Law PhD candidate  
 Tel Aviv University
 <br/><br/>
+<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
+Data Science M.Sc. student  
+Technion
+<br/><br/>
 TBA
  
 
