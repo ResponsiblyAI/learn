@@ -134,7 +134,9 @@ March 22 - May 10 2022 | Tuesday, Thursday
 
 <img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
 
-A permission is required to register to this corse, please fill out [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
+This course is available for undergraduate students and graduate students (Master, Ph.D.).
+
+A permission is required to register to this corse, please fill xwout [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
 
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
@@ -210,7 +212,7 @@ In this semester, another course - similar, yet different- will also be taught a
 1. **Multidisciplinary dialogue**  
 By the end of the course, the students will be able to communicate with professionals from other disciplines, identify gaps in the meaning of terms and perspectives, and develop a shared language.
    
-1. **Responsible AI**  
+1. **Responsible AI Literacy**  
 By the end of the course, the students will …
    1. be aware of the impact of AI on individuals, groups, society and humanity, and proactively spot ethical issues and scan for unintended consequences and potential harms.
    1. possess introductory knowledge and skills to oversight and audit AI systems through their life cycle (design, development and deployment).
