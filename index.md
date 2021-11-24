@@ -122,7 +122,7 @@ Technion
 TBA
  
 
-**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science / Computer Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
+**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
 
 **Class Hours.**
 The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
