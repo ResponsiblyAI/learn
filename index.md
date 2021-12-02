@@ -125,7 +125,7 @@ TBA
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
 
 **Class Hours.**
-The course comprises nine meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
+The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 March 22 - May 10 2022 | Tuesday, Thursday    
 9 am - 1 pm (Eastern Time Zone)  
