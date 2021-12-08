@@ -115,11 +115,19 @@ Business Manager at Microsoft R&D Israel
 Law PhD candidate  
 Tel Aviv University
 <br/><br/>
+<a href="http://arikarchmer.com/">Ari Karchmer</a>  
+Computer Science PhD student  
+Boston University
+<br/><br/>
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
 Data Science M.Sc. student  
 Technion
 <br/><br/>
-TBA
+<a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/">Adv. Sivan Shachar, LLM</a>  
+Teaching fellow  
+Tel Aviv University
+<br/><br/>
+
  
 
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
