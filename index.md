@@ -127,7 +127,10 @@ Technion
 Teaching fellow  
 Tel Aviv University
 <br/><br/>
-
+Marie-Claire Najjar, LLM  
+Teaching fellow  
+Bocconi University
+<br/><br/>
  
 
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
