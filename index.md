@@ -133,7 +133,7 @@ Bocconi University
 <br/><br/>
  
 
-**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
+**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science & Computer Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
 
 **Class Hours.**
 The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
@@ -145,7 +145,7 @@ March 22 - May 10 2022 | Tuesday, Thursday
 
 <img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
 
-This course is available for undergraduate students and graduate students (Master, Ph.D.).
+This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
 
 A permission is required to register to this corse, please fill xwout [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
 
