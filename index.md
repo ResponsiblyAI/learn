@@ -169,7 +169,7 @@ In this semester, another course - similar, yet different- will also be taught a
 <tbody>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">March 22th<br />Tue<br /></td>
+    <td class="tg-0pky">March 22nd<br />Tue<br /></td>
     <td class="tg-0pky">AI &amp; Us</td>
 	<td class="tg-0pky">Social Welfare</td>
   </tr>
