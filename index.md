@@ -152,7 +152,7 @@ A permission is required to register to this corse, please fill xwout [this appl
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
 1. We will have a pre-course meeting on the first day of the semester, Thursday, January 20 2021 at 11:00 am - 12:15 pm.
-2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141.
+2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141. You must **bring your laptops**.
 3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
 **Schedule**
