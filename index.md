@@ -81,9 +81,6 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 This unique course also brings together students from four institutes: Boston University, Tel Aviv University, the Technion and Bocconi University with instructors and teaching assistants from each.
 
-
-**For Interested Instructors.** Fill out [this form](https://forms.gle/Wk4RqoCYBaLeVroM8) to receive updates about the release of the course materials. You can read more about the course in this [poster](assets/poster.pdf) from the Workshop on Co-Development of Computer Science and Law 2020 at DIMACS, Rutgers University.
-
 **Staff.**
 
 <div style="text-align: center;"><em>Instructors</em></div>
