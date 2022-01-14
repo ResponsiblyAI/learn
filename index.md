@@ -81,76 +81,8 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 This unique course also brings together students from four institutes: Boston University, Tel Aviv University, the Technion and Bocconi University with instructors and teaching assistants from each.
 
-**Staff.**
-
-<div style="text-align: center;"><em>Instructors</em></div>
-
-<a href="https://agp.iem.technion.ac.il/avigal/">Prof. Avigdor Gal</a>  
-Faculty of Industrial Engineering &amp; Management  
-Technion
-<br/><br/>
-<a href="https://en-law.tau.ac.il/profile/elkiniva">Prof. Niva Elkin-Koren</a>  
-Faculty of Law  
-Tel Aviv University
-<br/><br/>
-<a href="https://didattica.unibocconi.eu/docenti/cv.php?rif=50237">Prof. Maria Lillà Montagnani</a>  
-Department of Law  
-Bocconi University
-<br/><br/>
-<a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
-Law postdoctoral researcher  
-University of Ottawa
-<br/><br/>
-<a href="https://shlomi.hod.xyz/">Shlomi Hod</a>  
-Computer Science PhD student  
-Boston University
-
-<div style="text-align: center;"><em>Teaching fellows</em></div>
-
-Adv. Hofit Wasserman Rozen  
-Business Manager at Microsoft R&D Israel  
-Law PhD candidate  
-Tel Aviv University
-<br/><br/>
-<a href="http://arikarchmer.com/">Ari Karchmer</a>  
-Computer Science PhD student  
-Boston University
-<br/><br/>
-<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
-Data Science M.Sc. student  
-Technion
-<br/><br/>
-<a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/">Adv. Sivan Shachar, LLM</a>  
-Teaching fellow  
-Tel Aviv University
-<br/><br/>
-Marie-Claire Najjar, LLM  
-Teaching fellow  
-Bocconi University
-<br/><br/>
- 
-
 **Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science & Computer Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
 
-**Class Hours.**
-The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
-
-March 22 - May 10 2022 | Tuesday, Thursday    
-9 am - 1 pm (Eastern Time Zone)  
-3 pm - 7 pm (Central European Time Zone)  
-4 pm - 8 pm (Israel Time Zone)  
-
-<img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
-
-This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
-
-A permission is required to register to this corse, please fill xwout [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
-
-In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
-
-1. We will have a **mandatory pre-course meeting** on the first day of the semester, **Thursday, January 20 2022 at 11:00 am - 12:15 pm**.
-2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141. You must **bring your laptops**.
-3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
 **Schedule**
 
@@ -214,6 +146,79 @@ In this semester, another course - similar, yet different- will also be taught a
   </tr>
 </tbody>
 </table>
+
+ 
+**Class Hours.**
+The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
+
+March 22 - May 10 2022 | Tuesday, Thursday    
+9 am - 1 pm (Eastern Time Zone)  
+3 pm - 7 pm (Central European Time Zone)  
+4 pm - 8 pm (Israel Time Zone)  
+
+
+
+<img class="icon" src="/assets/img/bu-icon.png" alt="Boston University" style="width:50px;"> **For Boston University Students Only.**
+
+This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
+
+A permission is required to register to this corse, please fill xwout [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
+
+In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
+
+1. We will have a **mandatory pre-course meeting** on the first day of the semester, **Thursday, January 20 2022 at 11:00 am - 12:15 pm**.
+2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141. You must **bring your laptops**.
+3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
+
+
+
+**Staff.**
+
+<div style="text-align: center;"><em>Instructors</em></div>
+
+<a href="https://agp.iem.technion.ac.il/avigal/">Prof. Avigdor Gal</a>  
+Faculty of Industrial Engineering &amp; Management  
+Technion
+<br/><br/>
+<a href="https://en-law.tau.ac.il/profile/elkiniva">Prof. Niva Elkin-Koren</a>  
+Faculty of Law  
+Tel Aviv University
+<br/><br/>
+<a href="https://didattica.unibocconi.eu/docenti/cv.php?rif=50237">Prof. Maria Lillà Montagnani</a>  
+Department of Law  
+Bocconi University
+<br/><br/>
+<a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
+Law postdoctoral researcher  
+University of Ottawa
+<br/><br/>
+<a href="https://shlomi.hod.xyz/">Shlomi Hod</a>  
+Computer Science PhD student  
+Boston University
+
+<div style="text-align: center;"><em>Teaching fellows</em></div>
+
+Adv. Hofit Wasserman Rozen  
+Business Manager at Microsoft R&D Israel  
+Law PhD candidate  
+Tel Aviv University
+<br/><br/>
+<a href="http://arikarchmer.com/">Ari Karchmer</a>  
+Computer Science PhD student  
+Boston University
+<br/><br/>
+<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
+Data Science M.Sc. student  
+Technion
+<br/><br/>
+<a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/">Adv. Sivan Shachar, LLM</a>  
+Teaching fellow  
+Tel Aviv University
+<br/><br/>
+Marie-Claire Najjar, LLM  
+Teaching fellow  
+Bocconi University
+<br/><br/>
 
 **Learning Objectives.** 
 
