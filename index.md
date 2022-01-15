@@ -91,7 +91,7 @@ This unique course also brings together students from four institutes: Boston Un
   <tr>
     <th class="tg-0pky">Class</th>
     <th class="tg-0pky">Date</th>
-    <th class="tg-0pky">Topics (TENTATIVE)</th>
+    <th class="tg-0pky">Topics</th>
     <th class="tg-0pky">Verticals</th>
   </tr>
 </thead>
@@ -142,7 +142,7 @@ This unique course also brings together students from four institutes: Boston Un
   <tr>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">May 10th<br />Thu</td>    
-    <td class="tg-0pky" colspan="2">Project Presentations, Accountability, Professional Responsibility and Course Summary</td>
+    <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
   </tr>
 </tbody>
 </table>
