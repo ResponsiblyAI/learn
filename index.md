@@ -141,7 +141,7 @@ This unique course also brings together students from four institutes: Boston Un
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
-    <td class="tg-0pky">May 10th<br />Thu</td>    
+    <td class="tg-0pky">May 10th<br />Tue</td>    
     <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
   </tr>
 </tbody>
