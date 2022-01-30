@@ -124,14 +124,14 @@ This unique course also brings together students from four institutes: Boston Un
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">April 5th<br />Tue</td>
-    <td class="tg-0pky">Transparency & Explainability </td>
-    <td class="tg-0pky">Finance</td>
+    <td class="tg-0pky">Privacy</td>
+    <td class="tg-0pky">Transportation</td>
   </tr>
-  <tr>
+   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">April 26th<br />Tue</td>
-	<td class="tg-0pky">Privacy</td>
-    <td class="tg-0pky">Transportation, COVID-19</td>
+	<td class="tg-0pky">Transparency & Explainability</td>
+    <td class="tg-0pky">Finance</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
