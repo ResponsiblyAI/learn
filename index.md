@@ -125,7 +125,7 @@ This unique course also brings together students from four institutes: Boston Un
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">April 5th<br />Tue</td>
     <td class="tg-0pky">Privacy<br /><br />Interlude: Multidisciplinary Dialogue</td>
-    <td class="tg-0pky">Transportation<br /><br /></td>
+    <td class="tg-0pky" style="vertical-align: top;">Transportation</td>
   </tr>
    <tr>
     <td class="tg-0pky">6</td>
