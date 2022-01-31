@@ -124,7 +124,7 @@ This unique course also brings together students from four institutes: Boston Un
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">April 5th<br />Tue</td>
-    <td class="tg-0pky">Privacy</td>
+    <td class="tg-0pky">Privacy<br/>Interlude: Multidisciplinary Dialogue</td>
     <td class="tg-0pky">Transportation</td>
   </tr>
    <tr>
@@ -222,7 +222,7 @@ Bocconi University
 
 **Learning Objectives.** 
 
-1. **Multidisciplinary dialogue**  
+1. **Multidisciplinary Dialogue**  
 By the end of the course, the students will be able to communicate with professionals from other disciplines, identify gaps in the meaning of terms and perspectives, and develop a shared language.
    
 1. **Responsible AI Literacy**  
