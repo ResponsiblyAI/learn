@@ -162,13 +162,14 @@ March 22 - May 10 2022 | Tuesday, Thursday
 
 This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
 
-A permission is required to register to this corse, please fill xwout [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
+A permission is required to register to this corse, please fill out [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
 
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
 1. We will have a **mandatory pre-course meeting** on the first day of the semester, **Thursday, January 20 2022 at 11:00 am - 12:15 pm**.
-2. We will meet **in-person** for all classes, including pre-course meeting, at MCS 141. You must **bring your laptops**.
-3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
+2. We will meet **in-person** for all classes at MCS B51. You must **bring your laptops**.
+3. For the pre-course meeting, we will meet at at MCS 141. 
+4. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
 
 
