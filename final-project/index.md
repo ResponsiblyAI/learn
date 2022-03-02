@@ -46,7 +46,7 @@ Importantly, the activities should be joint in nature such that students from th
 
 ### Submission
 
-Please submit your project by **TBA**, using **TBA**.
+Please submit your project by **May 10th, 2022**, using **Gradescope**.
 Only one team member should upload the project.
 The project shall be in the form of a Google doc / Word document, accompanied by a Jupiter notebook. 
 
