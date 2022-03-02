@@ -219,6 +219,10 @@ Marie-Claire Najjar, LLM
 Teaching fellow  
 Bocconi University
 <br/><br/>
+Eldar Abraham  
+Data Science M.Sc. student  
+Technion
+<br/><br/>
 
 **Learning Objectives.** 
 
