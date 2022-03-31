@@ -24,7 +24,7 @@ You will present your proposed class (~15 minutes) during the final class of thi
 
 ### Timeline
 
-* **Apr 12**: Project proposal. An initial reflection about your project (see the course pack for the submission link).
+* **Apr 12**: Project proposal submission. An initial reflection about your project (see the course pack for the submission link).
 * **Apr 13-14**: Mandatory office hours.
 * **April 25th - May 6th** - Optional office hours.
 * **May 10th** (class 8th): Oral presentation (8th class) + Submission (before class).
