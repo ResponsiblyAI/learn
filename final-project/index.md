@@ -14,11 +14,11 @@ The final project consists of creating a 9th class (an additional class) for the
 This is a team project, which you will complete with your original teams. Please note that grading is also by team, similar to other coursework.
 
 
-Through this experience, we intend for you to engage with the material at a different angle -- in order to create a 9th course, your team should collaborate not only to solve a predefined task, but to collaboratively brainstorm, understand how the multiple disciplines overlap and influence each other for the topic of interest, and practically implement their ideas. 
+Through this experience, we intend for you to engage with the material at a different angle -- in order to create a 9th class, your team should collaborate not only to solve a predefined task, but to collaboratively brainstorm, understand how the multiple disciplines overlap and influence each other for the topic of interest, and practically implement their ideas. 
 
 
 In more details:
-In your final project, you will plan a “ninth class” of our course, "Responsible AI, Law, Ethics & Society" that engages students from the different disciplines to work together in solving joint tasks. While you will not be actually teaching the full class, you should prepare a 3 hour class plan with details on the structure of the class including the various activities / content taught.
+In your final project, you will plan a “ninth class” of our course, "Responsible AI, Law, Ethics & Society" that engages students from the different disciplines to work together in solving joint tasks. While you will not be actually teaching the full class, you should prepare a **3 hour** class plan with details on the structure of the class including the various activities / content taught.
 You will present your proposed class (~15 minutes) during the final class of this course.  
 
 
@@ -66,18 +66,20 @@ The project shall be in the form of a PDF, accompanied by a Jupyter Notebook.
 
 The final project accounts for 40% of your final grade. Like the other components of the final grade, the project will be graded on a team-basis.  The breakdown of the evaluation criteria is below. 
 
-- 15% of the final project grade will be based on the proposal presentation at the 9th class. The presentation should reflect an initial draft - to be further developed by the team after the completion of the course. 
-- 85% of the project grade will be based on the submitted project itself. Criteria for grading both the presentation and the submitted output are:
+- 15% of the final project grade will be based on the presentation at the 8th class. 
+- 85% of the project grade will be based on the submitted project itself.
 
-  - Demonstration of collaboration and joint work in both preparing the class and in the proposed activities themselves (which should not only include tasks for the different disciplines but make sure that the tasks cannot be properly addressed without the combined knowledge and skills of both disciplines).
-  - Demonstration of in-depth thinking and development of the activities.
-  - Creativity in choosing the topic and developing the activities.
-  - Clarity of the class and its different activities.
+Criteria for grading both the presentation and the submitted output are:
+
+- Demonstration of collaboration and joint work in both preparing the class and in the proposed activities themselves (which should not only include tasks for the different disciplines but make sure that the tasks cannot be properly addressed without the combined knowledge and skills of both disciplines).
+- Demonstration of in-depth thinking and development of the activities.
+- Creativity in choosing the topic and developing the activities.
+- Clarity of the class and its different activities.
 
 
 ### Example of Class Structure (adapted from the second class)
 
-See below for a template for how to build your class structure.  (You can view the detailed activities in your "student handouts").
+See below for a template for how to build your class structure.
 
 <table>
 <thead>
