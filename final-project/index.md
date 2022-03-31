@@ -82,18 +82,15 @@ Criteria for grading both the presentation and the submitted output are:
 See below for a template for how to build your class structure.
 
 <table>
-<thead>
   <tr>
     <th>#</th>
     <th>Step</th>
     <th>Mode</th>
     <th>Duration</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>1</td>
-    <td>Input: AI & legal liablity</td>
+    <td>Input: AI & legal liability</td>
     <td>Plenary</td>
     <td>15</td>
   </tr>
@@ -119,12 +116,13 @@ See below for a template for how to build your class structure.
     <td></td>
     <td colspan="2">Break</td>
     <td>15</td>
-  </tr>1 
+  </tr> 
    <tr>
     <td>5</td>
     <td>Activity 2: Discovering new information</td>
     <td>Teams</td>
     <td>40</td>
+  </tr>
   <tr>
     <td>6</td>
     <td>Presentations and Discussions</td>
@@ -137,5 +135,4 @@ See below for a template for how to build your class structure.
     <td>Plenary</td>
     <td>15</td>
   </tr>
-</tbody>
 </table>
