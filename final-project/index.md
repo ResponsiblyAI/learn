@@ -42,16 +42,16 @@ You may choose one of the sectors or topics that we have covered in class, but p
 
 The structure of your proposed class should be similar to the ones presented at the course. Ideally, your project should include:
 
-1. A lesson plan (1-2 pages) with the same structure as the proposal, AND:
+1. A lesson plan (1-2 pages) with the same structure as the proposal (i.e., the Google Form), AND:
    1. It should include a table summarizing the flow of the class as well as a breakdown of the proposed activities. 
-   2. A table with a breakdown of all the planned activities for the course duration (3 hours). Please see pasted below an example from our first class.Try to make sure that the activities are "mixed" such that they include plenary sessions with short presentations as well as "hands on" activities in the breakout rooms / discussion. (no need for much details here, only a title and a short explanation of what the activity includes).
-   3. With respect to the proposed presentations - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
+   1. A table with a breakdown of all the planned sections for the class duration (3 hours). Please see below an example adapted from our second class. Try to make sure that the sections are "mixed" such that they include plenary with short presentations as well as "hands on" activities in the breakout rooms / discussion. For the inputs/presentations, there is no need for much details here, only a title and a short explanation of what the sesssion includes.
+   3. With respect to the proposed presentations/inputs - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
 
 2. Handout(s) for the activity(s). Please provide exact details, as if these tasks are presented to the students for them to complete. For example, if the task includes a legal case study, please write the case study and the specific questions.
 
 3. Notebook(s) accompanying the handout(s), according to your design of the lesson. As in our course, not every activity requires a notebook, but your class must have at least one.
 
-**ALSO**, you should prepare a 15 minutes slide deck to present your project at the 8th class.  
+**ALSO**, you should prepare a 15 minutes slide deck to present your project at the 8th class. In this project presentation, try to pitch your new lesson to the staff.
 
 
 ### Submission
