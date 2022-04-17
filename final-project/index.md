@@ -38,27 +38,26 @@ Your proposed class' topic should include both a specific domain (i.e. transport
 
 You may choose one of the sectors or topics that we have covered in class, but please do not use the same *combination* of sectors/topics and make sure that the class is not similar to any of the ones already taught during the course. Also, we encourage you to be creative and choose a new sector and topic altogether! Feel free to consult with the course instructors as you choose your sector and topic. 
 
-### Structure
+### Deliverables
 
-The structure of your proposed class should be similar to the ones presented at the course. It should include a table summarizing the flow of the class as well as a breakdown of the proposed activities. Ideally, your report should include:
+The structure of your proposed class should be similar to the ones presented at the course. Ideally, your project should include:
 
-- Background (explaining about your chosen topic, what it includes, reasons for choosing it, etc.)
+1. A lesson plan (1-2 pages) with the same structure as the proposal, AND:
+   1. It should include a table summarizing the flow of the class as well as a breakdown of the proposed activities. 
+   2. A table with a breakdown of all the planned activities for the course duration (3 hours). Please see pasted below an example from our first class.Try to make sure that the activities are "mixed" such that they include plenary sessions with short presentations as well as "hands on" activities in the breakout rooms / discussion. (no need for much details here, only a title and a short explanation of what the activity includes).
+   3. With respect to the proposed presentations - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
 
-- A table with a breakdown of all the planned activities for the course duration (3 hours). Please see pasted below an example from our first class.Try to make sure that the activities are "mixed" such that they include plenary sessions with short presentations as well as "hands on" activities in the breakout rooms / discussion. (no need for much details here, only a title and a short explanation of what the activity includes).
+2. Handout(s) for the activity(s). Please provide exact details, as if these tasks are presented to the students for them to complete. For example, if the task includes a legal case study, please write the case study and the specific questions.
 
-- With respect to the proposed presentations - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
+3. Notebook(s) accompanying the handout(s), according to your design of the lesson. As in our course, not every activity requires a notebook, but your class must have at least one.
 
-- With respect to the interactive activities, please provide exact details, as if these tasks are presented to the students for them to complete.
-For example, if the task includes a legal case study, please write the case study and the specific questions.
-
-- If the task includes analyzing a model, please provide the dataset and the guidelines.
-Importantly, the activities should be joint in nature such that students from the various disciplines will need to contribute in order for the team to make any progress.
+**ALSO**, you should prepare a 15 minutes slide deck to present your project at the 8th class.  
 
 
 ### Submission
 
 Please submit your project by **May 10th, 2022, 9 am EDT / 3 pm CET / 4 pm IST**, using **Gradescope**.
-The project shall be in the form of a PDF, accompanied by a Jupyter Notebook. 
+The project shall be in the form of multiple PDF files, accompanied by a Jupyter Notebook. 
 
 
 
