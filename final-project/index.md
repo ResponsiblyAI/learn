@@ -51,7 +51,7 @@ The structure of your proposed class should be similar to the ones presented at 
 
 3. Notebook(s) accompanying the handout(s), according to your design of the lesson. As in our course, not every activity requires a notebook, but your class must have at least one.
 
-**ALSO**, you should prepare a 15 minutes slide deck to present your project at the 8th class. In this project presentation, try to pitch your new lesson to the staff.
+**ALSO**, you should prepare a **7 minutes** slide deck to present your project at the 8th class. In this project presentation, try to pitch your new lesson to the staff.
 
 
 ### Submission
