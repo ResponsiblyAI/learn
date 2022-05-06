@@ -19,7 +19,7 @@ Through this experience, we intend for you to engage with the material at a diff
 
 In more details:
 In your final project, you will plan a “ninth class” of our course, "Responsible AI, Law, Ethics & Society" that engages students from the different disciplines to work together in solving joint tasks. While you will not be actually teaching the full class, you should prepare a **3 hour** class plan with details on the structure of the class including the various activities / content taught.
-You will present your proposed class (~15 minutes) during the final class of this course.  
+You will present your proposed class (~7 minutes) during the final class of this course.  
 
 
 ### Timeline
@@ -42,14 +42,20 @@ You may choose one of the sectors or topics that we have covered in class, but p
 
 The structure of your proposed class should be similar to the ones presented at the course. Ideally, your project should include:
 
-1. A lesson plan (1-2 pages) with the same structure as the proposal (i.e., the Google Form), AND:
-   1. It should include a table summarizing the flow of the class as well as a breakdown of the proposed activities. 
-   1. A table with a breakdown of all the planned sections for the class duration (3 hours). Please see below an example adapted from our second class. Try to make sure that the sections are "mixed" such that they include plenary with short presentations as well as "hands on" activities in the breakout rooms / discussion. For the inputs/presentations, there is no need for much details here, only a title and a short explanation of what the sesssion includes.
+1. A **lesson plan** (1-3 pages) that contains:
+   1. *Briefly* description of the following (similar to the final project proposal):
+      1. The name of the class
+      1. Which value or values (e.g., fairness, privacy, human-in-the-loop, accountability) and which domain (e.g., healthcare, labour market, smart cities, transportation) is this class about?
+      1. Core legal issue(s)
+      1. Core technical issue(s)
+      1. Case-study excerpt
+      1. Resources and references you have been using or inspired you
+   1. A table with a breakdown of all the planned sections for the class duration (3 hours). Please see below an example adapted from our second class. Try to make sure that the sections are "mixed" such that they include plenary with short presentations as well as "hands on" activities in the breakout rooms / discussion. For the inputs/presentations, there is no need for much details here, only a title and a short explanation of what the session includes.
    3. With respect to the proposed presentations/inputs - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
 
-2. Handout(s) for the activity(s). Please provide exact details, as if these tasks are presented to the students for them to complete. For example, if the task includes a legal case study, please write the case study and the specific questions.
+2. **Handout(s)** for the activity(s). Please provide exact details, as if these tasks are presented to the students for them to complete. For example, if the task includes a legal case study, please write the case study and the specific questions.
 
-3. Notebook(s) accompanying the handout(s), according to your design of the lesson. As in our course, not every activity requires a notebook, but your class must have at least one.
+3. **Notebook(s)** accompanying the handout(s), according to your design of the lesson. As in our course, not every activity requires a notebook, but your class must have at least one.
 
 **ALSO**, you should prepare a **7 minutes** slide deck to present your project at the 8th class. In this project presentation, try to pitch your new lesson to the staff.
 
