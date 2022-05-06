@@ -49,9 +49,11 @@ The structure of your proposed class should be similar to the ones presented at 
       1. Core legal issue(s)
       1. Core technical issue(s)
       1. Case-study excerpt
-      1. Resources and references you have been using or inspired you
-   1. A table with a breakdown of all the planned sections for the class duration (3 hours). Please see below an example adapted from our second class. Try to make sure that the sections are "mixed" such that they include plenary with short presentations as well as "hands on" activities in the breakout rooms / discussion. For the inputs/presentations, there is no need for much details here, only a title and a short explanation of what the session includes.
-   3. With respect to the proposed presentations/inputs - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
+      1. Resources and references you have been using or inspired you  
+
+   1. A table with a breakdown of all the planned sections for the class duration (3 hours). Please see below an example adapted from our second class. Try to make sure that the sections are "mixed" such that they include plenary with short presentations as well as "hands on" activities in the breakout rooms / discussion. For the inputs/presentations, there is no need for much details here, only a title and a short explanation of what the session includes.  
+
+   1. With respect to the proposed presentations/inputs - no need to actually detail the exact content to be taught there. Only describe what topics the presentations will cover.
 
 2. **Handout(s)** for the activity(s). Please provide exact details, as if these tasks are presented to the students for them to complete. For example, if the task includes a legal case study, please write the case study and the specific questions.
 
@@ -88,10 +90,10 @@ See below for a template for how to build your class structure.
 
 <table>
   <tr>
-    <th>#</th>
-    <th>Step</th>
-    <th>Mode</th>
-    <th>Duration</th>
+    <td><b>#</b></td>
+    <td><b>Step</b></td>
+    <td><b>Mode</b></td>
+    <td><b>Duration</b></td>
   </tr>
   <tr>
     <td>1</td>
