@@ -199,7 +199,7 @@ Boston University
 
 <div style="text-align: center;"><em>Teaching fellows</em></div>
 
-<a href="https://www.linkedin.com/in/hofit-wasserman-843997b9/">Adv. Hofit Wasserman Rozen</a>  
+<a href="https://www.linkedin.com/in/hofit-wasserman-rozen-843997b9/">Adv. Hofit Wasserman Rozen</a>  
 Business Manager at Microsoft R&D Israel  
 Law PhD candidate  
 Tel Aviv University
