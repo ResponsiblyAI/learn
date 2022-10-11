@@ -1,6 +1,5 @@
 ---
 layout: default-no-footer
-permalink: /
 title: Course // Responsible AI, Law, Ethics & Society
 ---
 
