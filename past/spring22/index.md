@@ -73,9 +73,10 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 # Course // Responsible AI, Law, Ethics & Society
 
-### Spring '23
+### Spring 2022 (past offering)
 
-**Past.** [Spring '20](past/spring20) &#124; [Spring '21](past/spring21) &#124; [Spring '22](past/spring22)
+### [Go to the current offering](/)
+
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
 
@@ -98,50 +99,50 @@ This unique course also brings together students from four institutes: Boston Un
 <tbody>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">March 21st<br />Tue<br /></td>
+    <td class="tg-0pky">March 22nd<br />Tue<br /></td>
     <td class="tg-0pky">AI &amp; Us</td>
 	<td class="tg-0pky">Social Welfare</td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
-    <td class="tg-0pky">March 23rd<br />Thu<br /></td>
+    <td class="tg-0pky">March 24th<br />Thu<br /></td>
 	<td class="tg-0pky">Liability &amp; Robustness</td>
 	<td class="tg-0pky">Autonomous Vehicles</td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
-    <td class="tg-0pky">March 28th<br />Tue</td>
+    <td class="tg-0pky">March 29th<br />Tue</td>
     <td class="tg-0pky">Discrimination &amp; Fairness </td>
     <td class="tg-0pky">Labour Market</td>
 
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
-    <td class="tg-0pky">March 30st<br />Thu</td>
+    <td class="tg-0pky">March 31st<br />Thu</td>
 	<td class="tg-0pky">Discrimination &amp; Fairness - con't</td>
     <td class="tg-0pky">Healthcare</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
-    <td class="tg-0pky">April 18th<br />Tue</td>
+    <td class="tg-0pky">April 5th<br />Tue</td>
     <td class="tg-0pky">Privacy</td>
     <td class="tg-0pky">Transportation</td>
   </tr>
    <tr>
     <td class="tg-0pky">6</td>
-    <td class="tg-0pky">April 20th<br />Thu</td>
+    <td class="tg-0pky">April 26th<br />Tue</td>
 	<td class="tg-0pky">Transparency & Explainability</td>
     <td class="tg-0pky">Finance</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
-    <td class="tg-0pky">May 2nd<br />Tue</td>
+    <td class="tg-0pky">April 28th<br />Thu</td>
     <td class="tg-0pky">Integration: Content Moderation </td>
     <td class="tg-0pky">Social Media Platforms</td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
-    <td class="tg-0pky">May 9th<br />Tue</td>    
+    <td class="tg-0pky">May 10th<br />Tue</td>    
     <td class="tg-0pky" colspan="2">Project Presentations and Course Summary</td>
   </tr>
 </tbody>
@@ -151,7 +152,7 @@ This unique course also brings together students from four institutes: Boston Un
 **Class Hours.**
 The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
-March 21st - May 9th 2023 | Tuesday, Thursday    
+March 22 - May 10 2022 | Tuesday, Thursday    
 9 am - 1 pm (Eastern Time Zone)  
 3 pm - 7 pm (Central European Time Zone)  
 4 pm - 8 pm (Israel Time Zone)  
@@ -162,14 +163,14 @@ March 21st - May 9th 2023 | Tuesday, Thursday
 
 This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
 
-A permission is required to register to this corse, please fill out [this application form](https://forms.gle/S8QsWmhanxXapFmu5). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during [office hour](https://calendly.com/shlomi-hod/ds-482-682-office-hour) if you have any questions.
+A permission is required to register to this corse, please fill out [this application form](https://forms.gle/G93uzPjgzGH3jTxy6). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during the [pre-course office hours](https://calendly.com/shlomi-hod/rai-pre-course-office-hours) if you have any questions.
 
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
-1. We will have a **mandatory pre-course meeting** at the beginning of the semester, **TBD**.
+1. We will have a **mandatory pre-course meeting** on the first day of the semester, **Thursday, January 20 2022 at 11:00 am - 12:15 pm**.
 2. We will meet **in-person** for all classes at MCS B51. You must **bring your laptops**.
 3. For the pre-course meeting, we will meet at at MCS 141. 
-4. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 21st)</u>** and the **<u>second (March 23rd)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
+4. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 22th)</u>** and the **<u>second (March 24th)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
 
 
@@ -204,6 +205,10 @@ Business Manager at Microsoft R&D Israel
 Law PhD candidate  
 Tel Aviv University
 <br/><br/>
+<a href="http://arikarchmer.com/">Ari Karchmer</a>  
+Computer Science PhD student  
+Boston University
+<br/><br/>
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
 Data Science M.Sc. student  
 Technion
@@ -216,7 +221,10 @@ Marie-Claire Najjar, LLM
 Teaching fellow  
 Bocconi University
 <br/><br/>
-
+Eldar Abraham  
+Data Science M.Sc. student  
+Technion
+<br/><br/>
 
 **Learning Objectives.** 
 
@@ -241,11 +249,11 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **In-Class Assignments.** In every class, all teams are required to submit a half-pager memo and a deck of a few slides at the end of each class. Each team will present twice during the course.
 
-**Final Project (TO BE UPDATED).** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. [Additional instructions here](/final-project/).
+**Final Project.** In their final project, the teams will be asked to develop a new case-study that makes use of data sets and data science techniques to demonstrate a legal and ethical dilemma regarding Responsible AI, Law, Ethics and Society. [Additional instructions here](final-project.html).
 
-**Evaluation.** The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives.
+**Evaluation.** The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives. We will publish a rubric soon.
 
-**Grading Breakdown (TO BE UPDATED).**  
+**Grading Breakdown.**  
 Final project: 40%  
 In-class assignments (slide deck x 7 class): 40%
 Presentation during class (x2 for each team): 20%  

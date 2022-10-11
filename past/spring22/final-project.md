@@ -7,7 +7,6 @@ title: Final Project - Course // Responsible AI, Law, Ethics & Society
 # Course // Responsible AI, Law, Ethics & Society
 
 ## Instructions For The Final Project
-## (NOT FINAL, TO BE UPDATED)
 
 ### Assignment summary
 
@@ -23,13 +22,13 @@ In your final project, you will plan a “ninth class” of our course, "Respons
 You will present your proposed class (~7 minutes) during the final class of this course.  
 
 
-### Timeline 
+### Timeline
 
-* **TBD**: Project proposal submission. An initial reflection about your project (see the course pack for the submission link).
-* **TBD**: Mandatory office hours.
-* **TBD** - Optional office hours.
-* **May 9th** (class 8th): Oral presentation (8th class) + Submission (before class).
-* **May 12th**: Grades released.
+* **Apr 12**: Project proposal submission. An initial reflection about your project (see the course pack for the submission link).
+* **Apr 13-14**: Mandatory office hours.
+* **April 25th - May 6th** - Optional office hours.
+* **May 10th** (class 8th): Oral presentation (8th class) + Submission (before class).
+* **May 13th**: Grades released.
 
 
 
@@ -65,7 +64,7 @@ The structure of your proposed class should be similar to the ones presented at 
 
 ### Submission
 
-Please submit your project by **May 9th, 2022, 9 am EDT / 3 pm CET / 4 pm IST**, using **Gradescope**.
+Please submit your project by **May 10th, 2022, 9 am EDT / 3 pm CET / 4 pm IST**, using **Gradescope**.
 The project shall be in the form of multiple PDF files, accompanied by a Jupyter Notebook. 
 
 
