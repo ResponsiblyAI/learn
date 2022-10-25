@@ -81,7 +81,7 @@ title: Course // Responsible AI, Law, Ethics & Society
 
 This unique course also brings together students from four institutes: Boston University, Tel Aviv University, the Technion and Bocconi University with instructors and teaching assistants from each.
 
-**Audience.** Multidisciplinary: LLB students (Bachelor of Laws) from Tel Aviv University, undergrad Data Science / Engineering students from the Technion,  undergrad & grad Data Science & Computer Science students from Boston University and LLM students (Master of Laws) from Bocconi University.
+**Audience.** Multidisciplinary: LLB (Bachelor of Laws) & LLM (Master of Laws) students from Tel Aviv University, undergrad & grad Data Science / Engineering students from the Technion, undergrad & grad Data Science / Computer Science students from Boston University and LLM students from Bocconi University.
 
 
 **Schedule**
