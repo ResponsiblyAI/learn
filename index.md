@@ -74,10 +74,11 @@ title: Course // Responsible AI, Law, Ethics & Society
 # Course // Responsible AI, Law, Ethics & Society
 
 ### Spring '23
+**Past.** [Spring '20](past/spring20) &#124; [Spring '21](past/spring21) &#124; [Spring '22](past/spring22)
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQ8wYGP_5so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Past.** [Spring '20](past/spring20) &#124; [Spring '21](past/spring21) &#124; [Spring '22](past/spring22)
 
 **Overview.** The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
 
