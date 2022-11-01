@@ -165,7 +165,7 @@ March 21st - May 9th 2023 | Tuesday, Thursday
 
 This course is available for undergraduate students and graduate students (Master, Ph.D.) in Data Science and Computer Science.
 
-A permission is required to register to this corse, please fill out [**this application form**](https://forms.gle/S8QsWmhanxXapFmu5). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during [office hour](https://calendly.com/shlomi-hod/ds-482-682-office-hour) if you have any questions.
+A permission is required to register to this corse, please fill out [**this application form**](https://forms.gle/S8QsWmhanxXapFmu5). Contact [Shlomi Hod](https://shlomi.hod.xyz/) `shlomi <AT> bu <DOT> edu` or book a session during [office hour](https://calendly.com/shlomi-hod/office-hour) if you have any questions.
 
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
