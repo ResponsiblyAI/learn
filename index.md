@@ -169,8 +169,9 @@ A permission is required to register to this corse, please fill out [**this appl
 
 In this semester, another course - similar, yet different- will also be taught at BU: CDS DS 457/657 Law for Algorithms (“LfA”). [This guide](https://docs.google.com/document/d/1HRXftnxfAbkDM5ql-R03cgCQSekla0mPOCKUow7ddzA/edit) will help to decide which course to take.
 
-1. All course meetings, except the last one (May 8th), are **online** via Zoom.
-2. In addition, we will have a **mandatory _in-person_ pre-course meeting** at the beginning of the semester, **TBD** at room **TBD**.
+1. All course meetings, except the last one (May 9th), are **online** via Zoom.
+2. For the last class, **Tuesday, May 9th, 9 am - 1 pm**, we will meet **in-person** at **CDS 1646**.
+2. In addition, we will have a **mandatory _in-person_ pre-course meeting** at the beginning of the semester, **Tuesday, January 24th, 9:30 am - 10:45 am** at room **CDS 1635**.
 3. Due to the different dates of daylight saving timezone change the US and Israel, the **<u>first (March 21st)</u>** and the **<u>second (March 23rd)</u>** meetings will take place one hour later **<u>10 am - 2 pm EST</u>**.
 
 
@@ -251,9 +252,3 @@ By the end of the course, the students will take the first steps in shaping thei
 Final project: 40%  
 In-class assignments (slide deck x 7 class): 40%
 Presentation during class (x2 for each team): 20%  
-
-
-
-
-
-
