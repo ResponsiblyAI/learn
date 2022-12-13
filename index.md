@@ -219,6 +219,10 @@ Marie-Claire Najjar, LLM
 Teaching fellow  
 Bocconi University
 <br/><br/>
+<a href="https://cs-people.bu.edu/megchen/">Megan Chen</a>  
+Teaching fellow  
+Boston University
+<br/><br/>
 
 
 **Learning Objectives.** 
