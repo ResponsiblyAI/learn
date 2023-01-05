@@ -193,8 +193,9 @@ Department of Law
 Bocconi University
 <br/><br/>
 <a href="https://uottawa.academia.edu/KarniChagalFeferkorn">Dr. Karni Chagal-Feferkorn</a>  
-Law postdoctoral researcher  
-University of Ottawa
+Assistant Professor  
+Department of Law  
+Academic Center Ramat-Gan
 <br/><br/>
 <a href="https://shlomi.hod.xyz/">Shlomi Hod</a>  
 Computer Science PhD student  
