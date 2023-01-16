@@ -56,7 +56,7 @@ title: Course // Responsible AI, Law, Ethics & Society
   <div class="column">
     <strong>094288</strong>
     <br />
-    3 credit pts.
+    2.5 credit pts.
   </div>
 </div>
   
@@ -253,7 +253,9 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Evaluation.** The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives.
 
-**Grading Breakdown (TO BE UPDATED).**  
-Final project: 40%  
-In-class assignments (slide deck x 7 class): 40%
-Presentation during class (x2 for each team): 20%  
+**Grading Breakdown.**  
+Team final project: 40%  
+Team in-class assignments (5% x 7 classes): 35%  
+Team presentations during class (7.5% × classes): 15%  
+Individual pre-class assignments (1% × 5 assignments): 5%  
+Individual participation: 5%  
