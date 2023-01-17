@@ -209,7 +209,7 @@ Law PhD candidate
 Tel Aviv University
 <br/><br/>
 <a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
-Data Science M.Sc. student  
+Data Science PhD student  
 Technion
 <br/><br/>
 <a href="https://www.linkedin.com/in/sivan-shachar-1389801ba/">Adv. Sivan Shachar, LLM</a>  
@@ -221,7 +221,7 @@ Teaching fellow
 Bocconi University
 <br/><br/>
 <a href="https://cs-people.bu.edu/megchen/">Megan Chen</a>  
-Teaching fellow  
+Computer Science PhD student  
 Boston University
 <br/><br/>
 
