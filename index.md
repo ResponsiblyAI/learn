@@ -120,7 +120,7 @@ This unique course also brings together students from four institutes: Boston Un
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
-    <td class="tg-0pky">March 30st<br />Thu</td>
+    <td class="tg-0pky">March 30th<br />Thu</td>
 	<td class="tg-0pky">Discrimination &amp; Fairness - con't</td>
     <td class="tg-0pky">Healthcare</td>
   </tr>
