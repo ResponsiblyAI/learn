@@ -255,7 +255,7 @@ By the end of the course, the students will take the first steps in shaping thei
 
 **Grading Breakdown.**  
 Team final project: 40%  
-Team in-class assignments (5% x 7 classes): 35%  
-Team presentations during class (7.5% × classes): 15%  
+Team in-class assignments (6% x 6 classes): 36%  
+Team presentations during class (7% × 2 classes): 14%  
 Individual pre-class assignments (1% × 5 assignments): 5%  
 Individual participation: 5%  
