@@ -1,0 +1,39 @@
+site_name: Responsible AI, Law, Ethics & Society
+site_url: https://learn.responsibly.ai/
+nav:
+  - Home: index.md
+  - Current and Upcoming:
+    - Fall 2023 - Executive: 2023-fall.md
+    - Spring 2024 - BU & Berkeley: 2024-spring-bu-berkeley.md
+    - Spring 2024 - TAU & Technion: 2024-spring-tau-technion.md
+  - Past:
+    - Spring 2023: 2023-spring.md
+    - Spring 2022: 2022-spring.md
+    - Spring 2021: 2021-spring.md
+    - Spring 2020: 2020-spring.md
+theme:
+  name: material
+  favicon: assets/logo-visual.png
+  palette:
+    primary: deep purple
+  features:
+    - navigation.expand
+    - navigation.top
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - tables
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tilde
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+plugins: []

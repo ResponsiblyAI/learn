@@ -1,0 +1,20 @@
+.md-logo {
+    display: none !important;
+  }
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-cell {
+  flex: 50%; /* Two images per row */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+  
