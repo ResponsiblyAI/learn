@@ -1,3 +1,0 @@
-[submodule "word-embedding"]
-	path = word-embedding
-	url = https://github.com/ResponsiblyAI/word-embedding.git
