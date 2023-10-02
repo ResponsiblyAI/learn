@@ -52,7 +52,7 @@ Cross-disciplinary: undergrad Legal Studies students from Univerisy of Californi
 
 The course comprises 13 meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
-January 22th - May 6th 2023 | Monday
+January 22th - May 6th 2023 | Monday  
 12 pm - 4 pm (Pacific Time Zone)  
 3 pm - 7 pm (Eastern Time Zone)  
 
