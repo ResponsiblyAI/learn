@@ -39,7 +39,7 @@ Cross-disciplinary: undergrad Legal Studies students from Univerisy of Californi
 | 3     | February 5th        | Discrimination & Fairness        | Labour Market          |
 | 4     | February 12th       | Discrimination & Fairness - con't| Healthcare             |
 | 5     | February 26th       | Final project - kickoff session  | -                      |
-| 6     | March 3rd           | Privacy                          | Transportation         |
+| 6     | March 4rd           | Privacy                          | Transportation         |
 | 7<br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**    | March 11th          | Guest lecture                    | -                      |
 | 8     | March 18th          | Deploying AI applications with foundation models & generative AI | Ecosystem |
 | 9     | April 1st           | Transparency & Explainability	 | Finance                |
