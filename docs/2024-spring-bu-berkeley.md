@@ -82,8 +82,8 @@ University of Haifa
 
 ### Teaching Fellows
 
-<a href="https://cs-people.bu.edu/megchen/">Megan Chen</a>
-Computer Science PhD student
+<a href="https://cs-people.bu.edu/megchen/">Megan Chen</a>  
+Computer Science Department  
 Boston University
 
 ## Learning Objectives
