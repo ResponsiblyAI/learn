@@ -69,6 +69,8 @@ All course meetings are **online** via Zoom.
 
 ## Staff
 
+### Instructors
+
 <a href="https://shlomi.hod.xyz/">Shlomi Hod</a>  
 Computer Science Department  
 Boston University
@@ -77,6 +79,12 @@ Talia Schwartz
 Faculty of Law  
 University of California, Berkeley  
 University of Haifa
+
+### Teaching Fellows
+
+<a href="https://cs-people.bu.edu/megchen/">Megan Chen</a>
+Computer Science PhD student
+Boston University
 
 ## Learning Objectives
 
