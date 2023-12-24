@@ -3,7 +3,7 @@ site_url: https://learn.responsibly.ai/
 nav:
   - Home: index.md
   - Current and Upcoming:
-    - Fall 2024 - Executive: 2023-fall.md
+    - Fall 2023 - Executive: 2023-fall.md
     - Spring 2024 - BU & Berkeley: 2024-spring-bu-berkeley.md
     - Spring 2024 - TAU & Technion: 2024-spring-tau-technion.md
   - Past:
