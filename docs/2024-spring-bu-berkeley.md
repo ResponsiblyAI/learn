@@ -134,13 +134,15 @@ The assignments and the final project will be evaluated in terms of how well the
 
 ## Grading Breakdown
 
-- Team (60%)
-  - Final project (40%)
-  - In-class assignments (10%)
-  - In-class presentations (10%)
-  
-- Individual (40%)
-  - Attendence (10%)
-  - Participation (10%)
-  - Pre-class assignments (10%)
-  - Writing assignment - Class 4(10%)
+### Team (60%)
+
+- Final project (40%)
+- In-class assignments (10%)
+- In-class presentations (10%)
+
+### Individual (40%)
+- Attendance (10%)
+- Participation (10%)
+- Pre-class assignments (10%)
+- Writing assignment at class 4 (10%)
+
