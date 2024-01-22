@@ -34,19 +34,19 @@ Cross-disciplinary: undergrad Legal Studies students from Univerisy of Californi
 
 | Class | Date                | Topics                           | Verticals              |
 |-------|---------------------|----------------------------------|------------------------|
-| 1     | January 22th        | AI & Us                          | Social Welfare         |
-| 2     | January 29th        | Liability & Robustness           | Autonomous Vehicles    |
-| 3     | February 5th        | Discrimination & Fairness        | Labour Market          |
-| 4     | February 12th       | Discrimination & Fairness - con't| Healthcare             |
-| 5     | February 26th       | Final project - kickoff session  | -                      |
-| 6     | March 4rd           | Privacy                          | Transportation         |
-| 7<br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**    | March 11th          | Guest lecture                    | -                      |
-| 8     | March 18th          | Deploying AI applications with foundation models & generative AI | Ecosystem |
-| 9     | April 1st           | Transparency & Explainability	 | Finance                |
-| 10    | April 8th           | Integration: Content Moderation  | Social Media Platforms |
-| 11<br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**   | April 15th          | Guest lecture                    | -                      |
-| 12    | April 22th          | AI Governance                    | -                      |
-| 13    | April 29th          | Project Presentations and Course Summary              | - |
+| 0     | January 22th        | Introduction to Responsible AI   | -                      |
+| 1     | January 29th        | AI & Us                          | Social Welfare         |
+| 2     | February 5th        | Liability & Robustness           | Autonomous Vehicles    |
+| 3     | February 12th       | Discrimination & Fairness        | Labour Market          |
+| 4     | February 26th       | Discrimination & Fairness - con't| Healthcare             |
+| 5     | March 4rd           | Privacy                          | Transportation         |
+| 6<br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**    | March 11th          | Guest lecture                    | -                      |
+| 7     | March 18th          | Deploying AI applications with foundation models & generative AI | Ecosystem |
+| 8     | April 1st           | Transparency & Explainability	 | Finance                |
+| 9    | April 8th           | Integration: Content Moderation  | Social Media Platforms |
+| 10<br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**   | April 15th          | Guest lecture                    | -                      |
+| 11    | April 22th          | AI Governance                    | -                      |
+| 12    | April 29th          | Project Presentations and Course Summary              | - |
 
 ## Class Hours
 
@@ -132,10 +132,15 @@ The teams will conduct an algorithmic audit of an AI system within a concrete co
 
 The assignments and the final project will be evaluated in terms of how well they reflect learning from readings and in-class discussion, with particular attention the integration of technical, legal, and ethical perspectives.
 
-<!-- ## Grading Breakdown
+## Grading Breakdown
 
-- Team final project: 40%
-- Team in-class assignments (6% x 6 classes): 36%
-- Team presentations during class (7% × 2 classes): 14%
-- Individual pre-class assignments (1% × 5 assignments): 5%
-- Individual participation: 5% -->
+- Team (60%)
+  - Final project (40%)
+  - In-class assignments (10%)
+  - In-class presentations (10%)
+  
+- Individual (40%)
+  - Attendence (10%)
+  - Participation (10%)
+  - Pre-class assignments (10%)
+  - Writing assignment - Class 4(10%)
