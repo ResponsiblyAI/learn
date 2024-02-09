@@ -39,7 +39,7 @@ Cross-disciplinary: undergrad Legal Studies students from Univerisy of Californi
 | 2     | February 5th        | Liability & Robustness           | Autonomous Vehicles    |
 | 3     | February 12th       | Discrimination & Fairness        | Labour Market          |
 | 4     | February 26th       | Discrimination & Fairness - con't| Healthcare             |
-| 5     | March 4rd           | Privacy                          | Transportation         |
+| 5     | March 4th           | Privacy                          | Transportation         |
 | <br/><img class="icon" src="/assets/berkeley-icon.png" alt="Boston University Logo" style="width:40px;">  **Only**    | March 11th          | Guest lecture                    | -                      |
 | 6     | March 18th          | Deploying AI applications with foundation models & generative AI | Ecosystem |
 | 7     | April 1st           | Transparency & Explainability	 | Finance                |
