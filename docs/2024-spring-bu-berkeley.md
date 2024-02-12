@@ -53,8 +53,8 @@ Cross-disciplinary: undergrad Legal Studies students from Univerisy of Californi
 The course comprises 13 meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
 
 January 22th - May 6th 2023 | Monday  
-12 pm - 4 pm (Pacific Time Zone)  
-3 pm - 7 pm (Eastern Time Zone)  
+12:10 pm - 4:10 pm (Pacific Time Zone)  
+3:10 pm - 7:10 pm (Eastern Time Zone)  
 
 ## <img class="icon" src="/assets/bu-icon.png" alt="Boston University Logo" style="width:50px;"> For Boston University Students Only
 
