@@ -10,13 +10,13 @@ The deployment of Artificial Intelligence systems in multiple domains of society
 
 ## Current and Upcoming Offerings
 
-[Fall 2023 - Executive](2023-fall.md)
-
 [Spring 2024 - Boston University & Berkeley](2024-spring-bu-berkeley.md)
 
 [Spring 2024 - Tel Aviv University & Technion](2024-spring-tau-technion.md)
 
 ## Past Offerings
+
+[Fall 2023 - Executive](2023-fall.md)
 
 [Spring 2023 - Boston University, Tel Aviv Universiry, Techion, Bocconi University](2023-spring.md)
 
