@@ -18,7 +18,7 @@
   </div>
 
   <div class="image-cell">
-    <img src="/assets/Technion.png" alt="Technion Logo" style="height: 80px; margin-right: 15px;" />
+    <img src="/assets/technion.png" alt="Technion Logo" style="height: 80px; margin-right: 15px;" />
     <div>
       <strong>094288</strong><br/>
       3 credit pts.
