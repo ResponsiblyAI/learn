@@ -54,12 +54,19 @@ May 30th - July 18th 2024 | Thursday
 ### Instructors
 
 <a href="https://agp.iem.technion.ac.il/avigal/">Prof. Avigdor Gal</a>  
-Faculty of Industrial Engineering &amp; Management  
+Faculty of Data &amp; Decision Sciences
 Technion
 <br/><br/>
 <a href="https://en-law.tau.ac.il/profile/elkiniva">Prof. Niva Elkin-Koren</a>  
 Faculty of Law  
 Tel Aviv University
+
+### Teaching fellows
+
+<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
+Data Science PhD student  
+Technion
+<br/><br/>
 
 ## Learning Objectives
 
@@ -110,7 +117,7 @@ The assignments and the final project will be evaluated in terms of how well the
 ## Grading Breakdown
 
 - Team final project: 40%
-- Team in-class assignments (6% x 6 classes): 36%
-- Team presentations during class (7% × 2 classes): 14%
-- Individual pre-class assignments (1% × 5 assignments): 5%
+- Team in-class assignments (7% x 5 classes): 35%
+- Team presentations during class (8% × 2 classes): 16%
+- Individual pre-class assignments (1% × 4 assignments): 4%
 - Individual participation: 5%
