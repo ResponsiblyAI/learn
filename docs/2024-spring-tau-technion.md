@@ -118,6 +118,6 @@ The assignments and the final project will be evaluated in terms of how well the
 
 - Team final project: 40%
 - Team in-class assignments (7% x 5 classes): 35%
-- Team presentations during class (8% × 2 classes): 16%
+- Team presentations during class: 16%
 - Individual pre-class assignments (1% × 4 assignments): 4%
 - Individual participation: 5%
