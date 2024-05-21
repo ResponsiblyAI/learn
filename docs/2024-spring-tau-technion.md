@@ -63,9 +63,18 @@ Tel Aviv University
 
 ### Teaching fellows
 
-<a href="https://www.linkedin.com/in/shir-lissak-012174166/">Shir Lissak</a>  
-Data Science PhD student  
-Technion
+<a href="https://www.linkedin.com/in/hofit-wasserman-rozen-843997b9/">Adv. Hofit Wasserman Rozen</a>  
+Law PhD candidate, Tel Aviv University
+Business Manager at Microsoft R&D Israel
+<br/><br/>
+<a href="https://www.linkedin.com/in/shelly-tabero-585692252/">Shelly Tabero
+</a>  
+Data Science Bachelor student, Technion
+Data Scientist, ThetaRay
+<br/><br/>
+<a href="https://www.shamgarlaw.sites.tau.ac.il/pepole/bruria-friedman-feldman">Bruria Friedman-Feldman</a>  
+LL.M. candidate, Tel Aviv University
+J.S.M. candidate, Stanford ‘25
 <br/><br/>
 
 ## Learning Objectives
