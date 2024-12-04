@@ -3,8 +3,8 @@ site_url: https://learn.responsibly.ai/
 nav:
   - Home: index.md
   - Past:
-    - Spring 2024: 2024-spring-bu-berkeley.md
-    - Spring 2024: 2024-spring-tau-technion.md
+    - Spring 2024 - US: 2024-spring-bu-berkeley.md
+    - Spring 2024 - IL: 2024-spring-tau-technion.md
     - Fall 2023: 2023-fall.md
     - Spring 2023: 2023-spring.md
     - Spring 2022: 2022-spring.md
