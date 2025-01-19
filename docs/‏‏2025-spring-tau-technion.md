@@ -34,13 +34,13 @@ Multidisciplinary: LLB (Bachelor of Laws) & LLM (Master of Laws) students from T
 
 | Class | Date                | Topics                          | Verticals             |
 |-------|---------------------|---------------------------------|-----------------------|
-| 1     | April 24th          | AI & Us                        | Social Welfare        |
-| NO CLASS | May 1st |        | Independence Day                |                       |
-| 2        | May 8th | Liability & Robustness                   | Autonomous Vehicles   |
-| 3        | May 15th | Discrimination & Fairness               | Labour Market         |
-| NO CLASS | May 22nd | Students' Day- Technion                 |                       |
-| NO CLASS | May 29th |       |                                 |                       |
-| 4        | June 5th | Privacy                                 | Transportation        |
+| 1        | April 24th       | AI & Us                         | Social Welfare        |
+| NO CLASS | May 1st          | Independence Day                |                       |
+| 2        | May 8th          | Liability & Robustness          | Autonomous Vehicles   |
+| 3        | May 15th         | Discrimination & Fairness       | Labour Market         |
+| NO CLASS | May 22nd         | Students' Day- Technion         |                       |
+| NO CLASS | May 29th         |                                 |                       |
+| 4        | June 5th         | Privacy                         | Transportation        |
 | 5     | June 12th | Deploying AI applications with foundation models & generative AI | Ecosystem |
 | 6     | June 19th | Integration: Content Moderation | Social Media Platforms|
 | 7     | June 26th | Project Presentations and Course Summary |                       |
