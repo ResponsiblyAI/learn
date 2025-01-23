@@ -69,7 +69,8 @@ Tel Aviv University
 Law PhD candidate, Tel Aviv University  
 Business Manager at Microsoft R&D Israel
 <br/><br/>
-<a href="https://www.linkedin.com/in/shelly-tabero-585692252/">Shelly Tabero</a>  
+<a href="https://www.linkedin.com/in/shelly-tabero-585692252/">Shelly Tabero
+</a> 
 B.Sc. in Data Science, Technion
 Data Scientist, ThetaRay
 <br/><br/>
@@ -116,7 +117,7 @@ In every class, all teams are required to submit a half-pager memo and a deck of
 
 ## Final Project
 
-The teams will conduct an algorithmic audit of an AI system within a concrete context. The audit requires the integration of technological, legal and ethical perspectives on novel case-sutdies, values and sectors that are not covered in the course.
+The teams will conduct an algorithmic audit of an AI system within a concrete context. The audit requires the integration of technological, legal and ethical perspectives on novel case-studies, values and sectors that are not covered in the course.
 
 ## Evaluation
 
