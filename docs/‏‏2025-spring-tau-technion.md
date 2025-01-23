@@ -70,8 +70,9 @@ Law PhD candidate, Tel Aviv University
 Business Manager at Microsoft R&D Israel
 <br/><br/>
 <a href="https://www.linkedin.com/in/shelly-tabero-585692252/">Shelly Tabero</a> 
-<div>B.Sc. in Data Science, Technion</div>
-<div>Data Scientist, ThetaRay</div>
+<br>
+B.Sc. in Data Science, Technion<br>
+Data Scientist, ThetaRay
 <br/><br/>
 <a href="https://www.linkedin.com/in/omerbejerano/">Omer Bejerano</a>
 <br/><br/>
