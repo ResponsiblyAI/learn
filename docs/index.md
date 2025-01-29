@@ -10,7 +10,7 @@ The deployment of Artificial Intelligence systems in multiple domains of society
 
 ## Current Offerings
 
-[Spring 2025 - Tel Aviv University & Technion](2025-spring-tau-technion.md)
+[Spring 2024 - Tel Aviv University & Technion](2025-spring-tau-technion.md)
 
 ## Past Offerings
 
