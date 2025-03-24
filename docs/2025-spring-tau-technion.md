@@ -74,7 +74,9 @@ Business Manager at Microsoft R&D Israel
 B.Sc. in Data Science, Technion<br>
 Data Scientist, ThetaRay
 <br/><br/>
-<a href="https://www.linkedin.com/in/omerbejerano/">Omer Bejerano</a>
+<a href="https://www.linkedin.com/in/omerbejerano/">Adv. Omer Bejerano</a>
+<br>
+Head of Customer Success & Services, Cytactic<br>
 <br/><br/>
 
 ## Learning Objectives
