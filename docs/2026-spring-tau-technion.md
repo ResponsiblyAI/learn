@@ -1,4 +1,4 @@
-# Spring 2025 - Responsible AI, Law, Ethics & Society
+# Spring 2026 - Responsible AI, Law, Ethics & Society
 
 <div class="image-grid">
   <div class="image-cell">
@@ -22,7 +22,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQ8wYGP_5so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work. 
+The deployment of Artificial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: *deconstructing* these issues by discipline and *reconstructing* with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in-class sessions. These sessions will include lectures, discussions, and group work.
 
 This unique course also brings together students from two institutes: Tel Aviv University and the Technion.
 
@@ -34,21 +34,19 @@ Multidisciplinary: LLB (Bachelor of Laws) & LLM (Master of Laws) students from T
 
 | Class | Date                | Topics                          | Verticals             |
 |-------|---------------------|---------------------------------|-----------------------|
-| 1        | April 24th       | AI & Us                         | Social Welfare        |
-| NO CLASS | May 1st          | Independence Day                |                       |
-| 2        | May 8th          | Liability & Robustness          | Autonomous Vehicles   |
-| 3        | May 15th         | Discrimination & Fairness       | Labour Market         |
-| NO CLASS | May 22nd         | Students' Day- Technion         |                       |
-| NO CLASS | May 29th         |                                 |                       |
-| 4        | June 5th         | Privacy                         | Transportation        |
-| 5     | June 12th | Deploying AI applications with foundation models & generative AI | Ecosystem |
-| 6     | June 19th | Integration: Content Moderation | Social Media Platforms|
-| 7     | June 26th | Project Presentations and Course Summary |                       |
+| 1     | March 26th       | AI & Us                         | Social Welfare        |
+| 2     | April 16th       | Liability & Robustness          | Autonomous Vehicles   |
+| 3     | April 23rd       | Discrimination & Fairness       | Labour Market         |
+| 4     | April 30th       | Privacy                         | Transportation        |
+| 5     | May 7th          | Transparency & Explainability   | Finance               |
+| 6     | May 28th         | Deploying AI Applications with Foundation Models & Gen AI | Ecosystem |
+| 7     | June 11th        | Integration: Content Moderation | Social Media Platforms|
+| 8     | June 25th        | Project Presentations and Course Summary |                       |
 
 ## Class Hours
-The course comprises seven meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society. 
+The course comprises eight meetings of four clock hours, in a workshop format. The topics explore some of the core issues in the landscape of Responsible AI, law, ethics and society.
 
-April 24th - June 26th 2025 | Thursday    
+March 26th - June 25th 2026 | Thursday
 4:30 pm - 8:30 pm
 
 ## Staff
@@ -69,22 +67,15 @@ Tel Aviv University
 Law PhD candidate, Tel Aviv University  
 Business Manager at Microsoft R&D Israel
 <br/><br/>
-<a href="https://www.linkedin.com/in/shelly-tabero-585692252/">Shelly Tabero</a> 
-<br>
-B.Sc. in Data Science, Technion<br>
-Data Scientist, ThetaRay
-<br/><br/>
-<a href="https://www.linkedin.com/in/omerbejerano/">Adv. Omer Bejerano</a>
-<br>
-Head of Customer Success & Services, Cytactic<br>
-<br/><br/>
+<a href="https://www.linkedin.com/in/shai-emanuel-yamin">Adv. Shai Emanuel Yamin</a>  
+Associate, Herzog Fox & Neeman
 
 ## Learning Objectives
 
 ### 1.  Cross-disciplinary  Dialogue
 
 By the end of the course, the students will be able to communicate with professionals from other disciplines, identify gaps in the meaning of terms and perspectives, and develop a shared language.
-   
+
 ### 2. Responsible AI Literacy
 
 By the end of the course, the students will …
@@ -107,11 +98,11 @@ Every class is built around one central task that requires the integration of la
 
 ## Participation
 
-Multidisciplinary teamwork is an indispensable component in this course, so the active participation of all students is necessary for successful learning. Therefore, a student might miss at most one class, but only for a justified reason after confirming with the instructor of their respective institution at least 3 days in advance. 
+Multidisciplinary teamwork is an indispensable component in this course, so the active participation of all students is necessary for successful learning. Therefore, a student might miss at most one class, but only for a justified reason after confirming with the instructor of their respective institution at least 3 days in advance.
 
 ## Pre-Class Assignments
 
-There are few assignments to be done and submitted before some of the classes. The students will use the outcomes of these assignments in the class. The submissions are mandatory but not graded. 
+There are few assignments to be done and submitted before some of the classes. The students will use the outcomes of these assignments in the class. The submissions are mandatory but not graded.
 
 ## In-Class Assignments
 

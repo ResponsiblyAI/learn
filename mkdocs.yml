@@ -3,8 +3,9 @@ site_url: https://learn.responsibly.ai/
 nav:
   - Home: index.md
   - Current:
-    - Spring 2025 - IL: 2025-spring-tau-technion.md
+    - Spring 2026 - IL: 2026-spring-tau-technion.md
   - Past:
+    - Spring 2025 - IL: 2025-spring-tau-technion.md
     - Spring 2024 - US: 2024-spring-bu-berkeley.md
     - Spring 2024 - IL: 2024-spring-tau-technion.md
     - Fall 2023: 2023-fall.md
