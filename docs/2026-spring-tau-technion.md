@@ -69,6 +69,10 @@ Business Manager at Microsoft R&D Israel
 <br/><br/>
 <a href="https://www.linkedin.com/in/shai-emanuel-yamin">Adv. Shai Emanuel Yamin</a>  
 Associate, Herzog Fox & Neeman
+<br/><br/>
+<a href="https://www.linkedin.com/in/itav-dan-38a285291">Itav Dan</a>  
+B.Sc. in Data Science, Technion  
+Data and Statistics, Elbit
 
 ## Learning Objectives
 
