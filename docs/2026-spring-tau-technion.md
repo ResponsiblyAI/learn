@@ -34,11 +34,10 @@ Multidisciplinary: LLB (Bachelor of Laws) & LLM (Master of Laws) students from T
 
 | Class | Date                | Topics                          | Verticals             |
 |-------|---------------------|---------------------------------|-----------------------|
-| 1     | March 26th       | AI & Us                         | Social Welfare        |
-| 2     | April 16th       | Liability & Robustness          | Autonomous Vehicles   |
-| 3     | April 23rd       | Discrimination & Fairness       | Labour Market         |
-| 4     | April 30th       | Privacy                         | Transportation        |
-| 5     | May 7th          | Transparency & Explainability   | Finance               |
+| 1     | April 16th       | AI & Us                         | Social Welfare        |
+| 2     | April 23rd       | Liability & Robustness          | Autonomous Vehicles   |
+| 3     | April 30th       | Discrimination & Fairness       | Labour Market         |
+| 4     | May 7th       | Privacy                         | Transportation        |
 | 6     | May 28th         | Deploying AI Applications with Foundation Models & Gen AI | Ecosystem |
 | 7     | June 11th        | Integration: Content Moderation | Social Media Platforms|
 | 8     | June 25th        | Project Presentations and Course Summary |                       |
